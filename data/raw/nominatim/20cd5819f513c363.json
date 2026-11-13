@@ -1,0 +1,40 @@
+{
+ "fetched_at": "2026-11-13T04:52:35+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Cardoso+de+Almeida%2C+1301+-+Perdizes%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 380871419,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1076645365,
+   "lat": "-23.5415399",
+   "lon": "-46.6711458",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "1301, Rua Cardoso de Almeida, Perdizes, São Paulo, Região Sudeste, 05013-001, Brasil",
+   "address": {
+    "house_number": "1301",
+    "road": "Rua Cardoso de Almeida",
+    "suburb": "Perdizes",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "05013-001",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5415899",
+    "-23.5414899",
+    "-46.6711958",
+    "-46.6710958"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "fetched_at": "2026-11-13T04:53:44+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+General+Calado%2C+20%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8939517,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 128999561,
+   "lat": "-23.5545742",
+   "lon": "-46.5735276",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "residential",
+   "name": "Rua General Calado",
+   "display_name": "Rua General Calado, Água Rasa, São Paulo, Região Sudeste, 03334-060, Brasil",
+   "address": {
+    "road": "Rua General Calado",
+    "suburb": "Água Rasa",
+    "city_district": "Água Rasa",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03334-060",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5548410",
+    "-23.5539724",
+    "-46.5750696",
+    "-46.5719160"
+   ]
+  }
+ ]
+}

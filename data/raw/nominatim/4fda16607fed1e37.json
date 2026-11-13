@@ -1,0 +1,106 @@
+{
+ "fetched_at": "2026-11-13T04:53:59+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Avenida+do+Imperador%2C+4424%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 9211566,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 126782566,
+   "lat": "-23.2779366",
+   "lon": "-45.8986540",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339819714656287,
+   "addresstype": "secondary",
+   "name": "Avenida do Imperador",
+   "display_name": "Avenida do Imperador, Jardim Imperial, São José dos Campos, São Paulo, Região Sudeste, 12234-490, Brasil",
+   "address": {
+    "road": "Avenida do Imperador",
+    "suburb": "Jardim Imperial",
+    "city": "São José dos Campos",
+    "municipality": "São José dos Campos",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "12234-490",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.2780356",
+    "-23.2778282",
+    "-45.8987526",
+    "-45.8985452"
+   ]
+  },
+  {
+   "place_id": 9228752,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1369143604,
+   "lat": "-23.2759795",
+   "lon": "-45.9006283",
+   "category": "highway",
+   "type": "secondary_link",
+   "place_rank": 27,
+   "importance": 0.04006486381322956,
+   "addresstype": "road",
+   "name": "Avenida do Imperador",
+   "display_name": "Avenida do Imperador, Jardim Imperial, São José dos Campos, São Paulo, Região Sudeste, 12234-490, Brasil",
+   "address": {
+    "road": "Avenida do Imperador",
+    "suburb": "Jardim Imperial",
+    "city": "São José dos Campos",
+    "municipality": "São José dos Campos",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "12234-490",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.2759999",
+    "-23.2758463",
+    "-45.9008409",
+    "-45.9004329"
+   ]
+  },
+  {
+   "place_id": 9218275,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 126785982,
+   "lat": "-23.2724050",
+   "lon": "-45.9038818",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339819714656287,
+   "addresstype": "secondary",
+   "name": "Avenida do Imperador",
+   "display_name": "Avenida do Imperador, Jardim Imperial, São José dos Campos, São Paulo, Região Sudeste, 12239-060, Brasil",
+   "address": {
+    "road": "Avenida do Imperador",
+    "suburb": "Jardim Imperial",
+    "city": "São José dos Campos",
+    "municipality": "São José dos Campos",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "12239-060",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.2748842",
+    "-23.2699626",
+    "-45.9062519",
+    "-45.9014367"
+   ]
+  }
+ ]
+}

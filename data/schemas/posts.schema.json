@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "posts.json (público) — sem legenda/texto de terceiros",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["post_id", "platform", "influencer", "url", "posted_on", "recommendation_type", "ad_disclosure", "confidence", "review_status"],
+    "properties": {
+      "post_id": {"type": "string"},
+      "platform": {"enum": ["tiktok", "instagram"]},
+      "influencer": {"enum": ["reviewsporsp", "incrivelsp", "vivamaissp"]},
+      "url": {"type": "string", "format": "uri"},
+      "posted_on": {"type": "string", "description": "AAAA-MM-DD, derivada dos 32 bits altos do ID do vídeo TikTok"},
+      "date_source": {"const": "derived_from_video_id"},
+      "text_trimmed": {"type": "boolean"},
+      "recommendation_type": {"enum": ["recommendation", "visit_showcase", "mention_only", "unknown"]},
+      "ad_disclosure": {"enum": ["declared", "not_detected_in_available_text"], "description": "ausência de marcação NÃO significa ausência de publicidade"},
+      "confidence": {"enum": ["high", "medium", "low", "none"]},
+      "review_status": {"enum": ["auto_ok", "pending_review"]},
+      "evidence": {"type": "array", "items": {"type": "string"}, "description": "fragmentos curtos (@, 📍) que sustentam a identificação"},
+      "restaurant_ids": {"type": "array", "items": {"type": "string"}},
+      "limitations": {"type": "array", "items": {"type": "string"}}
+    }
+  }
+}

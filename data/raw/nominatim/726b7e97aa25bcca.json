@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:53:09+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Fazenda+Macaxeira&viewbox=-46.541257800000004%2C-23.645676%2C-46.5192578%2C-23.667676&bounded=1",
+ "results": []
+}

@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:51:58+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Croma+Burgers&viewbox=-46.5541593%2C-23.5392657%2C-46.5321593%2C-23.5612657&bounded=1",
+ "results": []
+}

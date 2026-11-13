@@ -1,0 +1,41 @@
+{
+ "fetched_at": "2026-11-13T04:53:13+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Fushimi+Sushi+Tatuap%C3%A9&viewbox=-46.580972100000004%2C-23.5218656%2C-46.5589721%2C-23.5438656&bounded=1",
+ "results": [
+  {
+   "place_id": 8835404,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1487802173,
+   "lat": "-23.5328656",
+   "lon": "-46.5699721",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.861829556720863e-05,
+   "addresstype": "amenity",
+   "name": "Fushimi Sushi",
+   "display_name": "Fushimi Sushi, 250, Rua Santa Virgínia, Parque São Jorge, Tatuapé, São Paulo, Região Sudeste, 03084-000, Brasil",
+   "address": {
+    "amenity": "Fushimi Sushi",
+    "house_number": "250",
+    "road": "Rua Santa Virgínia",
+    "suburb": "Parque São Jorge",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03084-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5329203",
+    "-23.5327423",
+    "-46.5700145",
+    "-46.5698390"
+   ]
+  }
+ ]
+}

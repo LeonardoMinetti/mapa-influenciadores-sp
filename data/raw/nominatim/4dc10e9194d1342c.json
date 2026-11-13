@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:53:22+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Solar+Gastrobar&viewbox=-46.5320765%2C-23.4522819%2C-46.5100765%2C-23.474281899999998&bounded=1",
+ "results": []
+}

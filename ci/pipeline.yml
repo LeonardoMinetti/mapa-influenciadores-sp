@@ -1,0 +1,21 @@
+name: Pipeline Python (manual)
+
+# Somente execução manual — sem agendamento recorrente.
+# Limitação real: a coleta depende de data/private/search_snippets.json (texto de terceiros, não versionado)
+# e de chamadas de rede com credenciais do dono. Aqui rodamos testes e a validação dos dados públicos versionados.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Testes (unittest, sem dependências externas)
+        run: python -m unittest discover -s tests -t . -v

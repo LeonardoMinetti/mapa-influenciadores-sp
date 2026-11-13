@@ -1,0 +1,41 @@
+{
+ "fetched_at": "2026-11-13T04:53:41+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+20%2C+Atibaia",
+ "results": [
+  {
+   "place_id": 8586101,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 952772494,
+   "lat": "-23.1680005",
+   "lon": "-46.5458824",
+   "category": "building",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 5.000152590214416e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "20, Rua Faisão, Loteamento Alpes de Atibaia, Retiro das Fontes, Atibaia, São Paulo, Região Sudeste, 12946-873, Brasil",
+   "address": {
+    "house_number": "20",
+    "road": "Rua Faisão",
+    "residential": "Loteamento Alpes de Atibaia",
+    "suburb": "Retiro das Fontes",
+    "city": "Atibaia",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "12946-873",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.1681658",
+    "-23.1678395",
+    "-46.5460218",
+    "-46.5457463"
+   ]
+  }
+ ]
+}

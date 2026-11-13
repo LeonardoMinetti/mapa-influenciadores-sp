@@ -1,0 +1,74 @@
+{
+ "fetched_at": "2026-11-13T04:53:15+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Avenida+do+Orat%C3%B3rio%2C+3553+-+Parque+S%C3%A3o+Lucas+-+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8883114,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 235556457,
+   "lat": "-23.6125232",
+   "lon": "-46.5237023",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "secondary",
+   "name": "Avenida do Oratório",
+   "display_name": "Avenida do Oratório, Parque Santa Madalena, São Lucas, São Paulo, Região Sudeste, 03221-300, Brasil",
+   "address": {
+    "road": "Avenida do Oratório",
+    "neighbourhood": "Parque Santa Madalena",
+    "suburb": "São Lucas",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03221-300",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.6135642",
+    "-23.6116045",
+    "-46.5246005",
+    "-46.5229008"
+   ]
+  },
+  {
+   "place_id": 8878734,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 716310067,
+   "lat": "-23.6136937",
+   "lon": "-46.5228816",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "secondary",
+   "name": "Avenida do Oratório",
+   "display_name": "Avenida do Oratório, Parque Santa Madalena, São Lucas, Santo André, São Paulo, Região Sudeste, 03221-300, Brasil",
+   "address": {
+    "road": "Avenida do Oratório",
+    "neighbourhood": "Parque Santa Madalena",
+    "suburb": "São Lucas",
+    "city_district": "Santo André",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03221-300",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.6138232",
+    "-23.6135642",
+    "-46.5229008",
+    "-46.5228626"
+   ]
+  }
+ ]
+}

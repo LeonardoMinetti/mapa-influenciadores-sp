@@ -1,0 +1,71 @@
+{
+ "fetched_at": "2026-11-13T04:53:48+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Avenida+Copacabana%2C+148%2C+Barueri",
+ "results": [
+  {
+   "place_id": 8592903,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 472383921,
+   "lat": "-23.4853771",
+   "lon": "-46.8554412",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339377355611502,
+   "addresstype": "residential",
+   "name": "Avenida Copacabana",
+   "display_name": "Avenida Copacabana, 18 do Forte Empresarial, Barueri, São Paulo, Região Sudeste, 06472-010, Brasil",
+   "address": {
+    "road": "Avenida Copacabana",
+    "suburb": "18 do Forte Empresarial",
+    "city": "Barueri",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "06472-010",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.4853822",
+    "-23.4847964",
+    "-46.8566804",
+    "-46.8540555"
+   ]
+  },
+  {
+   "place_id": 8566150,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 472383925,
+   "lat": "-23.4850898",
+   "lon": "-46.8521214",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339377355611502,
+   "addresstype": "residential",
+   "name": "Avenida Copacabana",
+   "display_name": "Avenida Copacabana, 18 do Forte Empresarial, Barueri, São Paulo, Região Sudeste, 06472-005, Brasil",
+   "address": {
+    "road": "Avenida Copacabana",
+    "suburb": "18 do Forte Empresarial",
+    "city": "Barueri",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "06472-005",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.4851110",
+    "-23.4845773",
+    "-46.8526849",
+    "-46.8520573"
+   ]
+  }
+ ]
+}

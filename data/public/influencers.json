@@ -1,0 +1,26 @@
+[
+ {
+  "handle": "reviewsporsp",
+  "display_name": "Reviews por SP (Bia e Clara)",
+  "tiktok_url": "https://www.tiktok.com/@reviewsporsp",
+  "tiktok_confirmed": true,
+  "instagram_status": "perfil NÃO confirmado (sem resultado de busca); sem acesso permitido",
+  "posts": 9
+ },
+ {
+  "handle": "incrivelsp",
+  "display_name": "Incrível SP (Amanda e Léo)",
+  "tiktok_url": "https://www.tiktok.com/@incrivelsp",
+  "tiktok_confirmed": true,
+  "instagram_status": "perfil localizado em resultado de busca; sem acesso permitido às publicações",
+  "posts": 11
+ },
+ {
+  "handle": "vivamaissp",
+  "display_name": "Viva Mais SP",
+  "tiktok_url": "https://www.tiktok.com/@vivamaissp",
+  "tiktok_confirmed": true,
+  "instagram_status": "perfil NÃO confirmado (sem resultado de busca); sem acesso permitido",
+  "posts": 22
+ }
+]

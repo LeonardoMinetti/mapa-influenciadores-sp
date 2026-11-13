@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:28+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Tulum+Bar&viewbox=-46.699224900000004%2C-23.5841453%2C-46.6772249%2C-23.606145299999998&bounded=1",
+ "results": []
+}

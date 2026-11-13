@@ -1,0 +1,41 @@
+{
+ "fetched_at": "2026-11-13T04:53:38+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Marechal+Barbacena%2C+555%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8959639,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1249158498,
+   "lat": "-23.5552388",
+   "lon": "-46.5737764",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "555, Rua Marechal Barbacena, Água Rasa, São Paulo, Região Sudeste, 03333-000, Brasil",
+   "address": {
+    "house_number": "555",
+    "road": "Rua Marechal Barbacena",
+    "suburb": "Água Rasa",
+    "city_district": "Água Rasa",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03333-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5552888",
+    "-23.5551888",
+    "-46.5738264",
+    "-46.5737264"
+   ]
+  }
+ ]
+}

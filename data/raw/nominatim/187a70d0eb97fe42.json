@@ -1,0 +1,109 @@
+{
+ "fetched_at": "2026-11-13T04:52:00+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Av.+Santo+Ant%C3%B4nio%2C+1719%2C+Osasco",
+ "results": [
+  {
+   "place_id": 9023777,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 153027592,
+   "lat": "-23.5435277",
+   "lon": "-46.7757112",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "secondary",
+   "name": "Avenida Santo Antônio",
+   "display_name": "Avenida Santo Antônio, Vila Osasco, Jardim Bela Vista, Osasco, São Paulo, Região Sudeste, 06018-090, Brasil",
+   "address": {
+    "road": "Avenida Santo Antônio",
+    "quarter": "Vila Osasco",
+    "suburb": "Jardim Bela Vista",
+    "city": "Osasco",
+    "municipality": "Osasco",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "06018-090",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5452566",
+    "-23.5386266",
+    "-46.7814281",
+    "-46.7755687"
+   ]
+  },
+  {
+   "place_id": 9022471,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 649294581,
+   "lat": "-23.5370110",
+   "lon": "-46.7848059",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "secondary",
+   "name": "Avenida Santo Antônio",
+   "display_name": "Avenida Santo Antônio, Vila Osasco, Jardim das Flòres, Osasco, São Paulo, Região Sudeste, 06086-090, Brasil",
+   "address": {
+    "road": "Avenida Santo Antônio",
+    "quarter": "Vila Osasco",
+    "suburb": "Jardim das Flòres",
+    "city": "Osasco",
+    "municipality": "Osasco",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "06086-090",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5375449",
+    "-23.5367508",
+    "-46.7861419",
+    "-46.7835563"
+   ]
+  },
+  {
+   "place_id": 9018930,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 154360887,
+   "lat": "-23.5353847",
+   "lon": "-46.7868648",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "secondary",
+   "name": "Avenida Santo Antônio",
+   "display_name": "Avenida Santo Antônio, Vila Osasco, Jardim das Flòres, Osasco, São Paulo, Região Sudeste, 06132-380, Brasil",
+   "address": {
+    "road": "Avenida Santo Antônio",
+    "quarter": "Vila Osasco",
+    "suburb": "Jardim das Flòres",
+    "city": "Osasco",
+    "municipality": "Osasco",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "06132-380",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5366855",
+    "-23.5338762",
+    "-46.7868807",
+    "-46.7862276"
+   ]
+  }
+ ]
+}

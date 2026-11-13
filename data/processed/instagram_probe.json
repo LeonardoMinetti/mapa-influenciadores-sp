@@ -1,0 +1,9 @@
+{
+ "checked_at": "2026-11-13T05:00:29+00:00",
+ "token_configured": false,
+ "http_status": 400,
+ "error_code": 24,
+ "error_message": "The requested resource does not exist",
+ "conclusion": "sem token de app Meta não há acesso programático autorizado; mesmo com token, oEmbed não devolve legenda de perfis de terceiros nem comentários.",
+ "automated_collection_validated": false
+}

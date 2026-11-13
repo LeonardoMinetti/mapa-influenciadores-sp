@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:51:46+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Meet+Eat&viewbox=-46.6957393%2C-23.5798126%2C-46.673739299999994%2C-23.6018126&bounded=1",
+ "results": []
+}

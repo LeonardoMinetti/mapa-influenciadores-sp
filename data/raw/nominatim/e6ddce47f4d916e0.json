@@ -1,0 +1,41 @@
+{
+ "fetched_at": "2026-11-13T04:52:13+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Av.+Reg+Feij%C3%B3%2C+1188+-+%C3%81gua+Rasa%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8786266,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 8279185977,
+   "lat": "-23.5586860",
+   "lon": "-46.5698258",
+   "category": "highway",
+   "type": "bus_stop",
+   "place_rank": 30,
+   "importance": 7.861829556720863e-05,
+   "addresstype": "highway",
+   "name": "Avenida Reg. Feijó",
+   "display_name": "Avenida Reg. Feijó, Avenida Regente Feijó, Água Rasa, São Paulo, Região Sudeste, 03340-000, Brasil",
+   "address": {
+    "highway": "Avenida Reg. Feijó",
+    "road": "Avenida Regente Feijó",
+    "suburb": "Água Rasa",
+    "city_district": "Água Rasa",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03340-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5587360",
+    "-23.5586360",
+    "-46.5698758",
+    "-46.5697758"
+   ]
+  }
+ ]
+}

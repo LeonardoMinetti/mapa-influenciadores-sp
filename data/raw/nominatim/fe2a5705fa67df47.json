@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:32+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Salt+Burger+n+Bar&viewbox=-46.642928700000006%2C-23.4806621%2C-46.6209287%2C-23.5026621&bounded=1",
+ "results": []
+}

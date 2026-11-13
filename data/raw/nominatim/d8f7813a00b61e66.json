@@ -1,0 +1,71 @@
+{
+ "fetched_at": "2026-11-13T04:53:55+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+das+Flechas%2C+310%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 9077929,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 95460969,
+   "lat": "-23.6514710",
+   "lon": "-46.6706701",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "residential",
+   "name": "Rua das Flechas",
+   "display_name": "Rua das Flechas, Jardim Prudência, Cidade Ademar, São Paulo, Região Sudeste, 04363-010, Brasil",
+   "address": {
+    "road": "Rua das Flechas",
+    "suburb": "Jardim Prudência",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "04363-010",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.6534855",
+    "-23.6494943",
+    "-46.6714125",
+    "-46.6700447"
+   ]
+  },
+  {
+   "place_id": 9150977,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 255869339,
+   "lat": "-23.6476379",
+   "lon": "-46.6720622",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "residential",
+   "name": "Rua das Flechas",
+   "display_name": "Rua das Flechas, Jardim Prudência, Cidade Ademar, São Paulo, Região Sudeste, 04381-000, Brasil",
+   "address": {
+    "road": "Rua das Flechas",
+    "suburb": "Jardim Prudência",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "04381-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.6494943",
+    "-23.6457806",
+    "-46.6726853",
+    "-46.6714125"
+   ]
+  }
+ ]
+}

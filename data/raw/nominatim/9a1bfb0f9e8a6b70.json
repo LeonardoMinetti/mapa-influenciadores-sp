@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:52+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Burgguers+Tatuap%C3%A9&viewbox=-46.5764173%2C-23.5376987%2C-46.5544173%2C-23.5596987&bounded=1",
+ "results": []
+}

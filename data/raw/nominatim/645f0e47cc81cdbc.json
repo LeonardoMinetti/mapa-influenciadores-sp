@@ -1,0 +1,39 @@
+{
+ "fetched_at": "2026-11-13T04:54:02+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Namaxi%2C+140%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8857330,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 380438945,
+   "lat": "-23.5153445",
+   "lon": "-46.5387793",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "residential",
+   "name": "Rua Namaxi",
+   "display_name": "Rua Namaxi, Vila Laís, Penha, São Paulo, Região Sudeste, 03739-000, Brasil",
+   "address": {
+    "road": "Rua Namaxi",
+    "suburb": "Vila Laís",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03739-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5161260",
+    "-23.5145538",
+    "-46.5390091",
+    "-46.5385234"
+   ]
+  }
+ ]
+}

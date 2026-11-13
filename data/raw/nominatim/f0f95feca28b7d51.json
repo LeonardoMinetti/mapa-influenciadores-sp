@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:14+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Oiti+Conveni%C3%AAncia&viewbox=-46.5808258%2C-23.547686000000002%2C-46.558825799999994%2C-23.569686&bounded=1",
+ "results": []
+}

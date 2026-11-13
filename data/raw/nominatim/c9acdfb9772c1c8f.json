@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:46+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Tia+da+Batata+%28Jd.+Imperador%29&viewbox=-46.5111414%2C-23.579635200000002%2C-46.489141399999994%2C-23.6016352&bounded=1",
+ "results": []
+}

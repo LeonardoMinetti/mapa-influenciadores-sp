@@ -1,0 +1,40 @@
+{
+ "fetched_at": "2026-11-13T04:52:07+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Prof+Pedreira+de+Freitas%2C+629+-+Tatuape%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 383164572,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1161712930,
+   "lat": "-23.5501607",
+   "lon": "-46.5563868",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "629, Rua Professor Pedreira de Freitas, Vila Gomes Cardim, Tatuapé, São Paulo, Região Sudeste, 03312-052, Brasil",
+   "address": {
+    "house_number": "629",
+    "road": "Rua Professor Pedreira de Freitas",
+    "suburb": "Vila Gomes Cardim",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03312-052",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5502107",
+    "-23.5501107",
+    "-46.5564368",
+    "-46.5563368"
+   ]
+  }
+ ]
+}

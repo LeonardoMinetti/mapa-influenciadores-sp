@@ -1,0 +1,83 @@
+{
+ "posts_attempted": 42,
+ "posts_with_public_text_recovered": 42,
+ "posts_recovered_via_official_api": 0,
+ "tiktok_oembed_video_calls": 42,
+ "posts_by_influencer": {
+  "incrivelsp": 11,
+  "reviewsporsp": 9,
+  "vivamaissp": 22
+ },
+ "posts_with_restaurant_identified": 33,
+ "recommendations_explicit": 17,
+ "recommendation_breakdown": {
+  "mention_only": 7,
+  "recommendation": 17,
+  "unknown": 11,
+  "visit_showcase": 7
+ },
+ "ad_declared_posts": 5,
+ "unique_restaurant_units": 34,
+ "unique_brands": 32,
+ "geolocated_restaurants": 33,
+ "geolocated_exact_address": 15,
+ "coordinate_quality": {
+  "address_exact": 15,
+  "area": 2,
+  "none": 1,
+  "street_approx": 16
+ },
+ "existence_confirmed_in_osm_poi": 2,
+ "duplicate_recommendations_consolidated": 1,
+ "restaurants_pending_review": 20,
+ "posts_pending_review": 13,
+ "comments_instagram": 0,
+ "comments_tiktok": 0,
+ "google_restaurants_selected": 5,
+ "google_reviews_accessible": 0,
+ "cross_analyses_possible": 0,
+ "api_calls": {
+  "tiktok_oembed": {
+   "calls": 42,
+   "errors_4xx_5xx_or_network": 0,
+   "retries": 0,
+   "seconds": 17.1
+  },
+  "nominatim": {
+   "calls": 77,
+   "errors_4xx_5xx_or_network": 0,
+   "retries": 0,
+   "seconds": 51.0
+  },
+  "tiktok_oembed_profile": {
+   "calls": 6,
+   "errors_4xx_5xx_or_network": 0,
+   "retries": 0,
+   "seconds": 3.1
+  },
+  "instagram_oembed_probe": {
+   "calls": 2,
+   "errors_4xx_5xx_or_network": 2,
+   "retries": 0,
+   "seconds": 0.5
+  },
+  "google_places_probe": {
+   "calls": 2,
+   "errors_4xx_5xx_or_network": 2,
+   "retries": 0,
+   "seconds": 1.2
+  }
+ },
+ "api_calls_total": 129,
+ "pipeline_step_seconds": {
+  "tiktok_profiles": 2.93,
+  "tiktok_video_oembed": 0.01,
+  "geocode_nominatim": 0.03,
+  "instagram_probe": 0.28,
+  "google_probe": 0.23,
+  "demo_data": 0.01,
+  "build_db": 0.03,
+  "metrics": 0.0
+ },
+ "billed_cost_usd": 0.0
+}

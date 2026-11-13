@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:43+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Sea+Lounge&viewbox=-46.2704472%2C-23.9882753%2C-46.248447199999994%2C-24.0102753&bounded=1",
+ "results": []
+}

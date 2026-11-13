@@ -1,0 +1,58 @@
+{
+ "auditor": "claude-sonnet-5-5 (leitura em sessão dos textos + checagens automáticas) — NÃO é auditoria humana independente",
+ "audited_on": "2026-11-13",
+ "scope": "42 publicações, 34 unidades de restaurante",
+ "identity": {
+  "links_checked": 35,
+  "errors_found_final": 0,
+  "non_standard_cases": {
+   "Sea Lounge": "bar flutuante em praia (Guarujá), sem logradouro",
+   "Dinner in the Sky Brasil": "experiência/evento temporário em parque",
+   "Kanda Pastéis": "barraca em feira noturna (nome vem do texto, sem @)",
+   "Farol Cervejaria e Gourmet": "nome vem do texto, sem @"
+  }
+ },
+ "development_errors_caught_before_final": {
+  "hashtags_taken_as_restaurant_names": 7,
+  "unit_label_taken_as_restaurant_name (Croma 'CARRÃO')": 1,
+  "pin_prefix_regex_missed_name (Legado Parrilla)": 1,
+  "addresses_with_trailing_junk": 5,
+  "geocode_homonymous_street_other_city (Orlando Magic Burger -> São José dos Campos)": 1,
+  "exact_quality_given_to_address_without_number (Costela Park)": 1
+ },
+ "geocode": {
+  "municipality_rejected": [
+   "r_orlandomagicburger_avdoimperador4"
+  ],
+  "neighborhood_inconsistent": [
+   "r_verttoniristorante_rgencalado20",
+   "r_farolcervejariaegourmet_pcnicolauaranh",
+   "r_joeuzumaki_rnamaxi140",
+   "r_espetosmadeiratatuape_avvereadorabel"
+  ],
+  "street_level_only": [
+   "r_meeteat_ramosbatista44",
+   "r_costelaparkrestaurante_r20",
+   "r_verttoniristorante_rgencalado20",
+   "r_kadosushibar_avcopacabana14",
+   "r_cromaburgers_avsantoantonio",
+   "r_farolcervejariaegourmet_pcnicolauaranh",
+   "r_oiticonveniencia_avregfeijo1188",
+   "r_kajikisushi_rdasflechas310",
+   "r_kandapasteis_estrdorioacima",
+   "r_tiadabatatajdimperador_rcampoflorido6",
+   "r_akarisushi_avengenheiroca",
+   "r_joeuzumaki_rnamaxi140",
+   "r_yosukesushivilamatilde_rdonamatilde88",
+   "r_fazendamacaxeira_avportugal1313",
+   "r_sushisaolucas_avdooratorio35",
+   "r_solargastrobar_rtabajara69"
+  ],
+  "counts": {
+   "municipality_rejected": 1,
+   "neighborhood_inconsistent": 4,
+   "street_level_only": 16
+  }
+ },
+ "limits": "A checagem de identidade compara o restaurante extraído com o próprio texto indexado; não prova que o estabelecimento existe/funciona hoje (só 2 têm POI no OSM). A taxa de erro real só sai da revisão humana (interface de revisão)."
+}

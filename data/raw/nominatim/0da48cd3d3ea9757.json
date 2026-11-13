@@ -1,0 +1,103 @@
+{
+ "fetched_at": "2026-11-13T04:53:03+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Dona+Matilde%2C+882+-+Vila+Matilde%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8751766,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 16801763,
+   "lat": "-23.5399491",
+   "lon": "-46.5249208",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "tertiary",
+   "name": "Rua Dona Matilde",
+   "display_name": "Rua Dona Matilde, Vila Dalila, Vila Matilde, São Paulo, Região Sudeste, 03512-000, Brasil",
+   "address": {
+    "road": "Rua Dona Matilde",
+    "suburb": "Vila Dalila",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03512-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5407803",
+    "-23.5390893",
+    "-46.5251956",
+    "-46.5245683"
+   ]
+  },
+  {
+   "place_id": 8780956,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 245629348,
+   "lat": "-23.5353877",
+   "lon": "-46.5258098",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "tertiary",
+   "name": "Rua Dona Matilde",
+   "display_name": "Rua Dona Matilde, Vila Guilhermina, Vila Matilde, São Paulo, Região Sudeste, 03512-000, Brasil",
+   "address": {
+    "road": "Rua Dona Matilde",
+    "suburb": "Vila Guilhermina",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03512-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5359335",
+    "-23.5348322",
+    "-46.5260226",
+    "-46.5256244"
+   ]
+  },
+  {
+   "place_id": 8802909,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 948255580,
+   "lat": "-23.5364174",
+   "lon": "-46.5258980",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "tertiary",
+   "name": "Rua Dona Matilde",
+   "display_name": "Rua Dona Matilde, Vila Guilhermina, Vila Matilde, São Paulo, Região Sudeste, 03511-010, Brasil",
+   "address": {
+    "road": "Rua Dona Matilde",
+    "suburb": "Vila Guilhermina",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03511-010",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5367284",
+    "-23.5361065",
+    "-46.5259800",
+    "-46.5258160"
+   ]
+  }
+ ]
+}

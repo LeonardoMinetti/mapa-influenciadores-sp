@@ -1,0 +1,40 @@
+{
+ "fetched_at": "2026-11-13T04:52:50+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Azevedo+Soares%2C+1172-+Tatuap%C3%A9%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8709727,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9624245849,
+   "lat": "-23.5486987",
+   "lon": "-46.5654173",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 7.861829556720863e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "1172, Rua Azevedo Soares, Vila Gomes Cardim, Tatuapé, São Paulo, Região Sudeste, 03322-001, Brasil",
+   "address": {
+    "house_number": "1172",
+    "road": "Rua Azevedo Soares",
+    "suburb": "Vila Gomes Cardim",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03322-001",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5487487",
+    "-23.5486487",
+    "-46.5654673",
+    "-46.5653673"
+   ]
+  }
+ ]
+}

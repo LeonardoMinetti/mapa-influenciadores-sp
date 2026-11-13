@@ -1,0 +1,75 @@
+{
+ "fetched_at": "2026-11-13T04:52:38+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Estrada+do+Rio+Acima+101+-+Mairipor%C3%A3%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8679928,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 850396681,
+   "lat": "-23.3083060",
+   "lon": "-46.5685748",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.053393010605020184,
+   "addresstype": "residential",
+   "name": "Estrada do Rio Acima",
+   "display_name": "Estrada do Rio Acima, Jardim Odorico Pereira, Capoavinha, Mairiporã, São Paulo, Região Sudeste, 07629-658, Brasil",
+   "address": {
+    "road": "Estrada do Rio Acima",
+    "neighbourhood": "Jardim Odorico Pereira",
+    "suburb": "Capoavinha",
+    "city_district": "Mairiporã",
+    "town": "Mairiporã",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "07629-658",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.3083781",
+    "-23.3080355",
+    "-46.5693603",
+    "-46.5677134"
+   ]
+  },
+  {
+   "place_id": 8676331,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 454347020,
+   "lat": "-23.3085738",
+   "lon": "-46.5732689",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.053393010605020184,
+   "addresstype": "tertiary",
+   "name": "Rodovia Arão Sahm",
+   "display_name": "Rodovia Arão Sahm, Chácara Dom Bosco, Rio Acima, Mairiporã, São Paulo, Região Sudeste, 07629-658, Brasil",
+   "address": {
+    "road": "Rodovia Arão Sahm",
+    "neighbourhood": "Chácara Dom Bosco",
+    "suburb": "Rio Acima",
+    "city_district": "Mairiporã",
+    "town": "Mairiporã",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "07629-658",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.3116819",
+    "-23.3069586",
+    "-46.5776069",
+    "-46.5685589"
+   ]
+  }
+ ]
+}

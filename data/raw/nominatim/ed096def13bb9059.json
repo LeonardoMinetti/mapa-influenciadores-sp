@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:18+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Dinner+in+the+Sky+Brasil&viewbox=-46.741433400000005%2C-23.5333754%2C-46.7194334%2C-23.5553754&bounded=1",
+ "results": []
+}

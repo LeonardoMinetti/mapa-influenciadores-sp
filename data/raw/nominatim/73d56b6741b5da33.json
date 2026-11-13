@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:51:48+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+20+de+novembro%2C+sem+n%C3%BAmero+-+atibaia+-+sp",
+ "results": []
+}

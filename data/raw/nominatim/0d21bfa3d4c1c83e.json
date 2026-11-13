@@ -1,0 +1,103 @@
+{
+ "fetched_at": "2026-11-13T04:52:44+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=R.+Campo+Florido%2C+624+-+Jardim+Imperador%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8847869,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 51999492,
+   "lat": "-23.5906352",
+   "lon": "-46.5001414",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "residential",
+   "name": "Rua Campo Florido",
+   "display_name": "Rua Campo Florido, Jardim Imperador, São Mateus, São Paulo, Região Sudeste, 03934-000, Brasil",
+   "address": {
+    "road": "Rua Campo Florido",
+    "suburb": "Jardim Imperador",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03934-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5926693",
+    "-23.5885976",
+    "-46.5004111",
+    "-46.4998463"
+   ]
+  },
+  {
+   "place_id": 8779544,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 237115776,
+   "lat": "-23.5933997",
+   "lon": "-46.4997400",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "residential",
+   "name": "Rua Campo Florido",
+   "display_name": "Rua Campo Florido, Jardim Imperador, São Mateus, São Paulo, Região Sudeste, 03933-070, Brasil",
+   "address": {
+    "road": "Rua Campo Florido",
+    "suburb": "Jardim Imperador",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03933-070",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5941304",
+    "-23.5926693",
+    "-46.4998463",
+    "-46.4996355"
+   ]
+  },
+  {
+   "place_id": 8751875,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 219471716,
+   "lat": "-23.5943113",
+   "lon": "-46.4996618",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "residential",
+   "name": "Rua Campo Florido",
+   "display_name": "Rua Campo Florido, Jardim Imperador, São Mateus, São Paulo, Região Sudeste, 03940-090, Brasil",
+   "address": {
+    "road": "Rua Campo Florido",
+    "suburb": "Jardim Imperador",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03940-090",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5944414",
+    "-23.5941304",
+    "-46.4997920",
+    "-46.4996355"
+   ]
+  }
+ ]
+}

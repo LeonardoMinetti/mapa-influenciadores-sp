@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:51:53+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Kado+Sushi+Bar&viewbox=-46.671537%2C-23.5933548%2C-46.649536999999995%2C-23.6153548&bounded=1",
+ "results": []
+}

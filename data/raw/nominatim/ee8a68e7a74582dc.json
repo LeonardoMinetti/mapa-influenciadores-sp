@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:53:01+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Namaxi%2C+140+-+VI+S%C3%A3o+Geraldo%2C+S%C3%A3o+Paulo",
+ "results": []
+}

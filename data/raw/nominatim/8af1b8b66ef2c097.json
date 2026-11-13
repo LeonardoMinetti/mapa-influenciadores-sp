@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:53:19+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Av.+Vereador+Abel+Ferreira%2C+2001+-+Tatuap%C3%A9%2C+S%C3%A3o+Paulo",
+ "results": []
+}

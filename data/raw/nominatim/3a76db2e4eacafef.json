@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:53:00+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Chico+Grill&viewbox=-46.680684400000004%2C-23.602186800000002%2C-46.6586844%2C-23.6241868&bounded=1",
+ "results": []
+}

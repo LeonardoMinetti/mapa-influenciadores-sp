@@ -1,0 +1,62 @@
+{
+ "_about": "Camada de anotação feita por Claude (claude-sonnet-5-5) LENDO o texto das publicações nesta sessão — não é chamada de API automatizada. Apenas normaliza nomes de exibição (derivados do @ do estabelecimento ou do texto) e registra casos sem restaurante identificável. Nenhum endereço ou coordenada é criado aqui.",
+ "annotator": "claude-sonnet-5-5 (in-session reading)",
+ "annotated_on": "2026-11-13",
+ "display_names_by_handle": {
+  "carola.restobar": "Carola Restobar",
+  "meeteatsp": "Meet Eat",
+  "costelapark_restaurante": "Costela Park Restaurante",
+  "verttoni.ristorante": "Verttoni Ristorante",
+  "kadosushibarbr": "Kado Sushi Bar",
+  "cromaburguers": "Croma Burgers",
+  "pizzariamammaconcetta": "Mamma Concetta",
+  "pizzeriamammaconcetta": "Mamma Concetta",
+  "casachicago_pizzaebar": "Casa Chicago Pizza e Bar",
+  "oiticonveniencia": "Oiti Conveniência",
+  "dinnerintheskybr": "Dinner in the Sky Brasil",
+  "misssaigonbr": "Miss Saigon",
+  "rizzrestaurantesp": "Rizz Restaurante",
+  "tulumbar": "Tulum Bar",
+  "saltburgernbar": "Salt Burger n Bar",
+  "kajiki.sushi": "Kajiki Sushi",
+  "hannoverfondue": "Hannover Fondue",
+  "sealounge.sp": "Sea Lounge",
+  "tiadabatatajd.imperador": "Tia da Batata (Jd. Imperador)",
+  "orlandomagicburger": "Orlando Magic Burger",
+  "burgguerstatuape": "Burgguers Tatuapé",
+  "akarisushioficial": "Akari Sushi",
+  "chicogrill_01": "Chico Grill",
+  "joeuzumakioficial": "Joe Uzumaki",
+  "yosukesushivilamatilde": "Yosuke Sushi Vila Matilde",
+  "fazendamacaxeira": "Fazenda Macaxeira",
+  "fushimisushitatuape": "Fushimi Sushi Tatuapé",
+  "sushisaolucas": "Sushi São Lucas",
+  "espetosmadeiratatuape": "Espetos Madeira Tatuapé",
+  "solargastrobar": "Solar Gastrobar"
+ },
+ "post_overrides": {
+  "7265432645599759621": {
+   "venue_name": "Farol Cervejaria e Gourmet",
+   "name_source": "annotator_from_text",
+   "note": "Nome aparece no texto ('Farol Cervejaria e Gourmet 📍 Praça Nicolau Aranha Pachêco, 78 - Interlagos'); sem @ no texto."
+  },
+  "7522955929520835896": {
+   "note": "Pergunta ao público (picanha ou ancho?) com preço; sem avaliação explícita no texto -> tratada como vitrine/visita."
+  },
+  "7667344791709027605": {
+   "venue_name": "Kanda Pastéis",
+   "name_source": "annotator_from_text",
+   "note": "Nome 'Kanda Pastéis' aparece no texto; barraca em feira noturna (evento semanal), município de Mairiporã."
+  }
+ },
+ "post_notes": {
+  "7356340308856261893": "Restaurante em Bangkok (fora de SP).",
+  "7265055797040696581": "Salt Bae/Nusr-Et — local não identificado no texto; possivelmente fora de SP.",
+  "7395673807341571333": "Hashtag #casadosaulo sugere o nome; sem endereço no texto -> não geocodificado.",
+  "7396038774217641221": "Texto sem nome de restaurante (provável lista em vídeo; conteúdo do vídeo não processado).",
+  "7400498497037946118": "Texto sem nome de restaurante; conteúdo do vídeo não processado.",
+  "7403734141662940422": "Lista de restaurantes no vídeo; texto não nomeia os locais.",
+  "7089812299728391429": "Texto truncado no índice de busca, sem restaurante.",
+  "7667344791709027605": "Barraca 'Kanda Pastéis' em feira noturna de Mairiporã (município fora da capital); nome vem do texto, não de @."
+ }
+}

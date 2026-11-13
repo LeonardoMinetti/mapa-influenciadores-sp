@@ -1,0 +1,76 @@
+{
+ "fetched_at": "2026-11-13T04:52:20+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Bento+Freitas%2C+152+-+Rep%C3%BAblica%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8954932,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11642992600,
+   "lat": "-23.5432253",
+   "lon": "-46.6455612",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.861829556720863e-05,
+   "addresstype": "amenity",
+   "name": "Miss Saigon",
+   "display_name": "Miss Saigon, 152, Rua Bento Freitas, Vila Buarque, República, São Paulo, Região Sudeste, 01220-000, Brasil",
+   "address": {
+    "amenity": "Miss Saigon",
+    "house_number": "152",
+    "road": "Rua Bento Freitas",
+    "suburb": "Vila Buarque",
+    "city_district": "República",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "01220-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5432753",
+    "-23.5431753",
+    "-46.6456112",
+    "-46.6455112"
+   ]
+  },
+  {
+   "place_id": 8979180,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4704045484,
+   "lat": "-23.5432273",
+   "lon": "-46.6455846",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 7.861829556720863e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "152, Rua Bento Freitas, Vila Buarque, República, São Paulo, Região Sudeste, 01220-000, Brasil",
+   "address": {
+    "house_number": "152",
+    "road": "Rua Bento Freitas",
+    "suburb": "Vila Buarque",
+    "city_district": "República",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "01220-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5432773",
+    "-23.5431773",
+    "-46.6456346",
+    "-46.6455346"
+   ]
+  }
+ ]
+}

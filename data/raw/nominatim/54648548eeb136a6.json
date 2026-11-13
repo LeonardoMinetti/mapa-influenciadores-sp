@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:51:39+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=R.+Mal.+Barbacena%2C+555+-+Vila+Reg.+Feij%C3%B3%2C+S%C3%A3o+Paulo",
+ "results": []
+}

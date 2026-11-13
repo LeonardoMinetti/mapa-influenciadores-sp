@@ -1,0 +1,73 @@
+{
+ "fetched_at": "2026-11-13T04:53:21+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Tabajara%2C+69+-+Guarulhos",
+ "results": [
+  {
+   "place_id": 8582695,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 298834959,
+   "lat": "-23.4632819",
+   "lon": "-46.5210765",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "tertiary",
+   "name": "Rua Tabajara",
+   "display_name": "Rua Tabajara, Macedo, Guarulhos, São Paulo, Região Sudeste, 07091-000, Brasil",
+   "address": {
+    "road": "Rua Tabajara",
+    "suburb": "Macedo",
+    "city_district": "Guarulhos",
+    "city": "Guarulhos",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "07091-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.4642635",
+    "-23.4622866",
+    "-46.5224604",
+    "-46.5197039"
+   ]
+  },
+  {
+   "place_id": 8617882,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 297882684,
+   "lat": "-23.4651268",
+   "lon": "-46.5236647",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "tertiary",
+   "name": "Rua Tabajara",
+   "display_name": "Rua Tabajara, Macedo, Guarulhos, São Paulo, Região Sudeste, 07114-400, Brasil",
+   "address": {
+    "road": "Rua Tabajara",
+    "suburb": "Macedo",
+    "city_district": "Guarulhos",
+    "city": "Guarulhos",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "07114-400",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.4659659",
+    "-23.4642635",
+    "-46.5248861",
+    "-46.5224604"
+   ]
+  }
+ ]
+}

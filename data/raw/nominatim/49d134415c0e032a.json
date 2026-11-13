@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:53:57+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Kajiki+Sushi&viewbox=-46.681670100000005%2C-23.640471%2C-46.6596701%2C-23.662471&bounded=1",
+ "results": []
+}

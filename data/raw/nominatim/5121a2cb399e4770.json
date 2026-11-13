@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:39+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Kanda+Past%C3%A9is&viewbox=-46.5795748%2C-23.297306000000003%2C-46.5575748%2C-23.319306&bounded=1",
+ "results": []
+}

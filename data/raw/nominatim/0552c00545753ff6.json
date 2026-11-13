@@ -1,0 +1,103 @@
+{
+ "fetched_at": "2026-11-13T04:52:54+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Av.+Engenheiro+Caetano+%C3%81lvares%2C+4051+-+Mandaqui%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8606873,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 413224409,
+   "lat": "-23.4841240",
+   "lon": "-46.6371398",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "primary",
+   "name": "Avenida Engenheiro Caetano Alvares",
+   "display_name": "Avenida Engenheiro Caetano Alvares, Vila Aurora, Mandaqui, São Paulo, Região Sudeste, 02413-100, Brasil",
+   "address": {
+    "road": "Avenida Engenheiro Caetano Alvares",
+    "suburb": "Vila Aurora",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "02413-100",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.4863607",
+    "-23.4829101",
+    "-46.6400595",
+    "-46.6337291"
+   ]
+  },
+  {
+   "place_id": 8572542,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 916241105,
+   "lat": "-23.4760717",
+   "lon": "-46.6270298",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "tertiary",
+   "name": "Avenida Engenheiro Caetano Alvares",
+   "display_name": "Avenida Engenheiro Caetano Alvares, Vila Aurora, Mandaqui, São Paulo, Região Sudeste, 02409-060, Brasil",
+   "address": {
+    "road": "Avenida Engenheiro Caetano Alvares",
+    "suburb": "Vila Aurora",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "02409-060",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.4792026",
+    "-23.4726938",
+    "-46.6282718",
+    "-46.6263121"
+   ]
+  },
+  {
+   "place_id": 8594705,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 28460440,
+   "lat": "-23.4811040",
+   "lon": "-46.6292775",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "tertiary",
+   "name": "Avenida Engenheiro Caetano Alvares",
+   "display_name": "Avenida Engenheiro Caetano Alvares, Vila Aurora, Mandaqui, São Paulo, Região Sudeste, 02408-131, Brasil",
+   "address": {
+    "road": "Avenida Engenheiro Caetano Alvares",
+    "suburb": "Vila Aurora",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "02408-131",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.4824953",
+    "-23.4792026",
+    "-46.6309266",
+    "-46.6282718"
+   ]
+  }
+ ]
+}

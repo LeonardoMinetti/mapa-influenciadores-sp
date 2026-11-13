@@ -1,0 +1,74 @@
+{
+ "fetched_at": "2026-11-13T04:53:11+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Santa+Virginia%2C+250+-+Tatuap%C3%A9%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8835404,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1487802173,
+   "lat": "-23.5328656",
+   "lon": "-46.5699721",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 7.861829556720863e-05,
+   "addresstype": "amenity",
+   "name": "Fushimi Sushi",
+   "display_name": "Fushimi Sushi, 250, Rua Santa Virgínia, Parque São Jorge, Tatuapé, São Paulo, Região Sudeste, 03084-000, Brasil",
+   "address": {
+    "amenity": "Fushimi Sushi",
+    "house_number": "250",
+    "road": "Rua Santa Virgínia",
+    "suburb": "Parque São Jorge",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03084-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5329203",
+    "-23.5327423",
+    "-46.5700145",
+    "-46.5698390"
+   ]
+  },
+  {
+   "place_id": 9185401,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1486843059,
+   "lat": "-23.5328999",
+   "lon": "-46.5700781",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "250, Rua Santa Virgínia, Parque São Jorge, Tatuapé, São Paulo, Região Sudeste, 03084-000, Brasil",
+   "address": {
+    "house_number": "250",
+    "road": "Rua Santa Virgínia",
+    "suburb": "Parque São Jorge",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "03084-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5329499",
+    "-23.5328499",
+    "-46.5701281",
+    "-46.5700281"
+   ]
+  }
+ ]
+}

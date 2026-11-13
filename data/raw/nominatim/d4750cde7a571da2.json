@@ -1,0 +1,103 @@
+{
+ "fetched_at": "2026-11-13T04:51:45+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Ramos+Batista+443%2C+Vila+Olimp%C3%ADa+-+SP%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8890829,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 933384168,
+   "lat": "-23.5908126",
+   "lon": "-46.6847393",
+   "category": "highway",
+   "type": "living_street",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "living_street",
+   "name": "Rua Ramos Batista",
+   "display_name": "Rua Ramos Batista, Vila Olímpia, Itaim Bibi, São Paulo, Região Sudeste, 04543-011, Brasil",
+   "address": {
+    "road": "Rua Ramos Batista",
+    "suburb": "Vila Olímpia",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "04543-011",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5909796",
+    "-23.5906457",
+    "-46.6847892",
+    "-46.6846894"
+   ]
+  },
+  {
+   "place_id": 8898104,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 27579127,
+   "lat": "-23.5911489",
+   "lon": "-46.6846293",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "residential",
+   "name": "Rua Ramos Batista",
+   "display_name": "Rua Ramos Batista, Vila Olímpia, Itaim Bibi, São Paulo, Região Sudeste, 04543-011, Brasil",
+   "address": {
+    "road": "Rua Ramos Batista",
+    "suburb": "Vila Olímpia",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "04543-011",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5912865",
+    "-23.5910113",
+    "-46.6846799",
+    "-46.6845788"
+   ]
+  },
+  {
+   "place_id": 8862227,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 339581632,
+   "lat": "-23.5930289",
+   "lon": "-46.6839976",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "residential",
+   "name": "Rua Ramos Batista",
+   "display_name": "Rua Ramos Batista, Vila Olímpia, Itaim Bibi, São Paulo, Região Sudeste, 04552-020, Brasil",
+   "address": {
+    "road": "Rua Ramos Batista",
+    "suburb": "Vila Olímpia",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "04552-020",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5934213",
+    "-23.5926374",
+    "-46.6841301",
+    "-46.6838680"
+   ]
+  }
+ ]
+}

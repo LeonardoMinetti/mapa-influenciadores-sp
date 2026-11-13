@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:53:05+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Yosuke+Sushi+Vila+Matilde&viewbox=-46.5359208%2C-23.528949100000002%2C-46.513920799999994%2C-23.5509491&bounded=1",
+ "results": []
+}

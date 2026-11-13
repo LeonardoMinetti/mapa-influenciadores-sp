@@ -1,0 +1,16 @@
+# segredos
+.env
+*.key
+# dados privados / texto de terceiros (NÃO redistribuir)
+data/private/
+data/raw/tiktok_oembed/
+data/imports/*.csv
+!data/imports/exemplo_*.csv
+# build
+node_modules/
+web/dist/
+web/public/data/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/

@@ -1,0 +1,11 @@
+{"ts": "2026-11-13T05:00:28+00:00", "step": "tiktok_profiles", "status": "ok", "seconds": 2.93}
+{"ts": "2026-11-13T05:00:28+00:00", "step": "tiktok_video_oembed", "status": "ok", "seconds": 0.01}
+{"ts": "2026-11-13T05:00:28+00:00", "step": "geocode_nominatim", "status": "ok", "seconds": 0.03}
+{"ts": "2026-11-13T05:00:29+00:00", "step": "instagram_probe", "status": "ok", "seconds": 0.28}
+{"ts": "2026-11-13T05:00:29+00:00", "step": "google_probe", "status": "ok", "seconds": 0.23}
+{"ts": "2026-11-13T05:00:29+00:00", "step": "demo_data", "status": "ok", "seconds": 0.01}
+{"ts": "2026-11-13T05:00:29+00:00", "step": "build_db", "status": "ok", "seconds": 0.03}
+{"ts": "2026-11-13T05:00:29+00:00", "step": "metrics", "status": "ok", "seconds": 0.0}
+{"ts": "2026-11-13T05:00:57+00:00", "step": "demo_data", "status": "ok", "seconds": 0.01}
+{"ts": "2026-11-13T05:00:57+00:00", "step": "build_db", "status": "ok", "seconds": 0.03}
+{"ts": "2026-11-13T05:00:57+00:00", "step": "metrics", "status": "ok", "seconds": 0.0}

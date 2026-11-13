@@ -1,0 +1,22 @@
+{
+  "name": "mapa-influenciadores-sp-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "prepare:data": "node scripts/prepare-data.mjs",
+    "dev": "npm run prepare:data && VITE_PRIVATE=1 PRIVATE_DATA=1 vite",
+    "build": "npm run prepare:data && vite build",
+    "build:private": "PRIVATE_DATA=1 VITE_PRIVATE=1 npm run prepare:data && VITE_PRIVATE=1 vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "1.9.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11"
+  }
+}

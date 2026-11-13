@@ -1,0 +1,103 @@
+{
+ "fetched_at": "2026-11-13T04:52:16+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Parque+C%C3%A2ndido+Portinari%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8947270,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 320142569,
+   "lat": "-23.5443754",
+   "lon": "-46.7304334",
+   "category": "leisure",
+   "type": "park",
+   "place_rank": 24,
+   "importance": 0.08007861829556723,
+   "addresstype": "park",
+   "name": "Parque Estadual Cândido Portinari",
+   "display_name": "Parque Estadual Cândido Portinari, Boaçava, Alto de Pinheiros, São Paulo, Região Sudeste, Brasil",
+   "address": {
+    "park": "Parque Estadual Cândido Portinari",
+    "suburb": "Boaçava",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5471886",
+    "-23.5418785",
+    "-46.7319986",
+    "-46.7287389"
+   ]
+  },
+  {
+   "place_id": 9143642,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 179621135,
+   "lat": "-23.6830489",
+   "lon": "-46.5500480",
+   "category": "leisure",
+   "type": "park",
+   "place_rank": 24,
+   "importance": 0.08007861829556723,
+   "addresstype": "park",
+   "name": "Praça Cândido Portinari",
+   "display_name": "Praça Cândido Portinari, Jardim Bom Pastor, Santo André, São Paulo, Região Sudeste, Brasil",
+   "address": {
+    "park": "Praça Cândido Portinari",
+    "suburb": "Jardim Bom Pastor",
+    "city_district": "Santo André",
+    "city": "Santo André",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.6834044",
+    "-23.6826935",
+    "-46.5506545",
+    "-46.5494415"
+   ]
+  },
+  {
+   "place_id": 8633015,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 732367471,
+   "lat": "-23.4996574",
+   "lon": "-46.5554281",
+   "category": "leisure",
+   "type": "park",
+   "place_rank": 24,
+   "importance": 0.08007861829556723,
+   "addresstype": "park",
+   "name": "Praça Cândido Portinari",
+   "display_name": "Praça Cândido Portinari, Vila Melliani, Ponte Grande, Guarulhos, São Paulo, Região Sudeste, Brasil",
+   "address": {
+    "park": "Praça Cândido Portinari",
+    "quarter": "Vila Melliani",
+    "suburb": "Ponte Grande",
+    "city_district": "Guarulhos",
+    "city": "Guarulhos",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.4997899",
+    "-23.4994805",
+    "-46.5556836",
+    "-46.5552765"
+   ]
+  }
+ ]
+}

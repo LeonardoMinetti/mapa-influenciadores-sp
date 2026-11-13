@@ -1,0 +1,26 @@
+{
+ "reviewsporsp": {
+  "checked_at": "2026-11-13T05:00:26+00:00",
+  "http_status": 200,
+  "url": "https://www.tiktok.com/@reviewsporsp",
+  "author_name": "BIA E CLARA",
+  "title": "BIA E CLARA's Creator Profile",
+  "confirmed": true
+ },
+ "incrivelsp": {
+  "checked_at": "2026-11-13T05:00:27+00:00",
+  "http_status": 200,
+  "url": "https://www.tiktok.com/@incrivelsp",
+  "author_name": "Incrivelsp",
+  "title": "Incrivelsp's Creator Profile",
+  "confirmed": true
+ },
+ "vivamaissp": {
+  "checked_at": "2026-11-13T05:00:28+00:00",
+  "http_status": 200,
+  "url": "https://www.tiktok.com/@vivamaissp",
+  "author_name": "vivamaissp",
+  "title": "vivamaissp's Creator Profile",
+  "confirmed": true
+ }
+}

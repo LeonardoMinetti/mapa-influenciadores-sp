@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:53:40+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Legado+Parrilla&viewbox=-46.5847764%2C-23.544238800000002%2C-46.5627764%2C-23.5662388&bounded=1",
+ "results": []
+}

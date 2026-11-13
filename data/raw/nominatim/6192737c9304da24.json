@@ -1,0 +1,106 @@
+{
+ "fetched_at": "2026-11-13T04:53:07+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Av.+Portugal%2C+1313%2C+Santo+Andr%C3%A9",
+ "results": [
+  {
+   "place_id": 9085694,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 115571277,
+   "lat": "-23.6566760",
+   "lon": "-46.5302578",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "primary",
+   "name": "Avenida Portugal",
+   "display_name": "Avenida Portugal, Centro, Santo André, São Paulo, Região Sudeste, 09041-321, Brasil",
+   "address": {
+    "road": "Avenida Portugal",
+    "suburb": "Centro",
+    "city_district": "Santo André",
+    "city": "Santo André",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "09041-321",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.6572017",
+    "-23.6561440",
+    "-46.5305453",
+    "-46.5299822"
+   ]
+  },
+  {
+   "place_id": 9070834,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 644050331,
+   "lat": "-23.6595368",
+   "lon": "-46.5316197",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "primary",
+   "name": "Avenida Portugal",
+   "display_name": "Avenida Portugal, Vila Bastos, Santo André, São Paulo, Região Sudeste, 09040-000, Brasil",
+   "address": {
+    "road": "Avenida Portugal",
+    "suburb": "Vila Bastos",
+    "city_district": "Santo André",
+    "city": "Santo André",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "09040-000",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.6599487",
+    "-23.6591249",
+    "-46.5318311",
+    "-46.5314083"
+   ]
+  },
+  {
+   "place_id": 9048625,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 706335609,
+   "lat": "-23.6582106",
+   "lon": "-46.5309448",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "primary",
+   "name": "Avenida Portugal",
+   "display_name": "Avenida Portugal, Centro, Santo André, São Paulo, Região Sudeste, 09040-010, Brasil",
+   "address": {
+    "road": "Avenida Portugal",
+    "suburb": "Centro",
+    "city_district": "Santo André",
+    "city": "Santo André",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "09040-010",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.6584577",
+    "-23.6579636",
+    "-46.5310700",
+    "-46.5308195"
+   ]
+  }
+ ]
+}

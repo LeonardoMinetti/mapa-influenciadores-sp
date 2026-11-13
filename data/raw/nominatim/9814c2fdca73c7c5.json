@@ -1,0 +1,40 @@
+{
+ "fetched_at": "2026-11-13T04:52:27+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=R.+Gomes+de+Carvalho%2C+1666+-+Vila+Olimpia%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 8930260,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1456805037,
+   "lat": "-23.5951453",
+   "lon": "-46.6882249",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 7.861829556720863e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "1666, Rua Gomes de Carvalho, Vila Olímpia, Itaim Bibi, São Paulo, Região Sudeste, 04547-006, Brasil",
+   "address": {
+    "house_number": "1666",
+    "road": "Rua Gomes de Carvalho",
+    "suburb": "Vila Olímpia",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "04547-006",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5954019",
+    "-23.5948827",
+    "-46.6886210",
+    "-46.6880804"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:56+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Akari+Sushi&viewbox=-46.6481398%2C-23.473124000000002%2C-46.6261398%2C-23.495124&bounded=1",
+ "results": []
+}

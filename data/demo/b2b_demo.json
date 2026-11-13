@@ -1,0 +1,318 @@
+{
+ "data_kind": "DEMO",
+ "banner": "DADOS FICTÍCIOS — apenas demonstração de interface. Nenhum restaurante, comentário ou alerta abaixo é real.",
+ "coverage": {
+  "comments_analyzed": 39,
+  "comments_instagram": 0,
+  "comments_tiktok": 0,
+  "google_places_status": "demo",
+  "text_source": "fictício"
+ },
+ "restaurants": [
+  {
+   "restaurant_id": "demo_a",
+   "name": "Restaurante Fictício A",
+   "crosscheck": {
+    "restaurant_id": "demo_a",
+    "sources_available": {
+     "promise": true,
+     "audience": true,
+     "customers_google": false
+    },
+    "promise_themes": {
+     "atendimento": 1,
+     "tempo_espera": 1,
+     "preco_custo_beneficio": 2,
+     "ambiente": 1,
+     "comida": 1,
+     "experiencia_geral": 1
+    },
+    "audience_theme_counts": {
+     "experiencia_geral": 4,
+     "preco_custo_beneficio": 2
+    },
+    "customer_theme_counts": null,
+    "comments_analyzed": 12,
+    "hypotheses": [
+     {
+      "theme": "preco_custo_beneficio",
+      "promise_posts": 2,
+      "audience_mentions": 2,
+      "customer_mentions": 0,
+      "text": "Hipótese de investigação (não conclusão): o tema 'preco_custo_beneficio' foi destacado em 2 publicação(ões) e aparece em 2 comentário(s) da audiência e 0 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     },
+     {
+      "theme": "experiencia_geral",
+      "promise_posts": 1,
+      "audience_mentions": 4,
+      "customer_mentions": 0,
+      "text": "Hipótese de investigação (não conclusão): o tema 'experiencia_geral' foi destacado em 1 publicação(ões) e aparece em 4 comentário(s) da audiência e 0 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     }
+    ],
+    "status": "partial_two_sources",
+    "missing": [
+     "customers_google"
+    ]
+   },
+   "alert": {
+    "state": "no_relevant_signals",
+    "label": "Sem sinais relevantes identificados",
+    "comments_analyzed": 12,
+    "flagged_comments": 0,
+    "flagged_posts": 0,
+    "evidence_examples": [],
+    "context": "Manifestações de espectadores em publicações de influenciadores (não é avaliação de cliente).",
+    "limitations": [
+     "Comentários de espectadores não são avaliações de clientes que visitaram o local.",
+     "Classificação por regras léxicas (baseline); sujeita a erros de ironia e contexto.",
+     "DEMONSTRAÇÃO com comentários fictícios."
+    ],
+    "suggestions": [
+     "Manter o monitoramento; não há ação recomendada com base nestes dados."
+    ],
+    "criteria": "mín. 10 comentários; recorrente = ≥3 manifestações e ≥10% do total"
+   },
+   "google": {
+    "status": "demo_only"
+   }
+  },
+  {
+   "restaurant_id": "demo_b",
+   "name": "Restaurante Fictício B",
+   "crosscheck": {
+    "restaurant_id": "demo_b",
+    "sources_available": {
+     "promise": true,
+     "audience": true,
+     "customers_google": true
+    },
+    "promise_themes": {
+     "atendimento": 1,
+     "tempo_espera": 1,
+     "preco_custo_beneficio": 2,
+     "ambiente": 1,
+     "comida": 1,
+     "experiencia_geral": 1
+    },
+    "audience_theme_counts": {
+     "experiencia_geral": 4,
+     "atendimento": 2,
+     "preco_custo_beneficio": 1
+    },
+    "customer_theme_counts": {
+     "atendimento": 2,
+     "tempo_espera": 3
+    },
+    "comments_analyzed": 12,
+    "hypotheses": [
+     {
+      "theme": "atendimento",
+      "promise_posts": 1,
+      "audience_mentions": 2,
+      "customer_mentions": 2,
+      "text": "Hipótese de investigação (não conclusão): o tema 'atendimento' foi destacado em 1 publicação(ões) e aparece em 2 comentário(s) da audiência e 2 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     },
+     {
+      "theme": "tempo_espera",
+      "promise_posts": 1,
+      "audience_mentions": 0,
+      "customer_mentions": 3,
+      "text": "Hipótese de investigação (não conclusão): o tema 'tempo_espera' foi destacado em 1 publicação(ões) e aparece em 0 comentário(s) da audiência e 3 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     },
+     {
+      "theme": "preco_custo_beneficio",
+      "promise_posts": 2,
+      "audience_mentions": 1,
+      "customer_mentions": 0,
+      "text": "Hipótese de investigação (não conclusão): o tema 'preco_custo_beneficio' foi destacado em 2 publicação(ões) e aparece em 1 comentário(s) da audiência e 0 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     },
+     {
+      "theme": "experiencia_geral",
+      "promise_posts": 1,
+      "audience_mentions": 4,
+      "customer_mentions": 0,
+      "text": "Hipótese de investigação (não conclusão): o tema 'experiencia_geral' foi destacado em 1 publicação(ões) e aparece em 4 comentário(s) da audiência e 0 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     }
+    ],
+    "status": "cross_analysis_possible",
+    "missing": []
+   },
+   "alert": {
+    "state": "attention",
+    "label": "Atenção à percepção de confiança",
+    "comments_analyzed": 12,
+    "flagged_comments": 1,
+    "flagged_posts": 1,
+    "evidence_examples": [
+     "Isso é publi né? Parece propaganda"
+    ],
+    "context": "Manifestações de espectadores em publicações de influenciadores (não é avaliação de cliente).",
+    "limitations": [
+     "Comentários de espectadores não são avaliações de clientes que visitaram o local.",
+     "Classificação por regras léxicas (baseline); sujeita a erros de ironia e contexto.",
+     "DEMONSTRAÇÃO com comentários fictícios."
+    ],
+    "suggestions": [
+     "Responder com transparência às dúvidas nos comentários (ex.: informar se a visita foi convite/parceria).",
+     "Pedir que parceiros usem a marcação de publicidade da plataforma de forma visível."
+    ],
+    "criteria": "mín. 10 comentários; recorrente = ≥3 manifestações e ≥10% do total"
+   },
+   "google": {
+    "status": "demo_only"
+   }
+  },
+  {
+   "restaurant_id": "demo_c",
+   "name": "Restaurante Fictício C",
+   "crosscheck": {
+    "restaurant_id": "demo_c",
+    "sources_available": {
+     "promise": true,
+     "audience": true,
+     "customers_google": false
+    },
+    "promise_themes": {
+     "atendimento": 1,
+     "tempo_espera": 1,
+     "preco_custo_beneficio": 2,
+     "ambiente": 1,
+     "comida": 1,
+     "experiencia_geral": 1
+    },
+    "audience_theme_counts": {
+     "experiencia_geral": 2,
+     "preco_custo_beneficio": 1,
+     "atendimento": 1
+    },
+    "customer_theme_counts": null,
+    "comments_analyzed": 12,
+    "hypotheses": [
+     {
+      "theme": "atendimento",
+      "promise_posts": 1,
+      "audience_mentions": 1,
+      "customer_mentions": 0,
+      "text": "Hipótese de investigação (não conclusão): o tema 'atendimento' foi destacado em 1 publicação(ões) e aparece em 1 comentário(s) da audiência e 0 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     },
+     {
+      "theme": "preco_custo_beneficio",
+      "promise_posts": 2,
+      "audience_mentions": 1,
+      "customer_mentions": 0,
+      "text": "Hipótese de investigação (não conclusão): o tema 'preco_custo_beneficio' foi destacado em 2 publicação(ões) e aparece em 1 comentário(s) da audiência e 0 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     },
+     {
+      "theme": "experiencia_geral",
+      "promise_posts": 1,
+      "audience_mentions": 2,
+      "customer_mentions": 0,
+      "text": "Hipótese de investigação (não conclusão): o tema 'experiencia_geral' foi destacado em 1 publicação(ões) e aparece em 2 comentário(s) da audiência e 0 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     }
+    ],
+    "status": "partial_two_sources",
+    "missing": [
+     "customers_google"
+    ]
+   },
+   "alert": {
+    "state": "recurring_questions",
+    "label": "Questionamentos recorrentes",
+    "comments_analyzed": 12,
+    "flagged_comments": 3,
+    "flagged_posts": 2,
+    "evidence_examples": [
+     "Parece tudo combinado, não confio muito",
+     "Foi pago pra falar bem né",
+     "Mentira, fui e não é isso tudo"
+    ],
+    "context": "Manifestações de espectadores em publicações de influenciadores (não é avaliação de cliente).",
+    "limitations": [
+     "Comentários de espectadores não são avaliações de clientes que visitaram o local.",
+     "Classificação por regras léxicas (baseline); sujeita a erros de ironia e contexto.",
+     "DEMONSTRAÇÃO com comentários fictícios."
+    ],
+    "suggestions": [
+     "Alinhar com o influenciador uma comunicação clara de parceria e do que foi cortesia.",
+     "Publicar informações verificáveis (cardápio, preços, horários) para reduzir dúvidas.",
+     "Incentivar relatos de clientes reais (avaliações no Google) além do conteúdo patrocinado."
+    ],
+    "criteria": "mín. 10 comentários; recorrente = ≥3 manifestações e ≥10% do total"
+   },
+   "google": {
+    "status": "demo_only"
+   }
+  },
+  {
+   "restaurant_id": "demo_d",
+   "name": "Restaurante Fictício D",
+   "crosscheck": {
+    "restaurant_id": "demo_d",
+    "sources_available": {
+     "promise": true,
+     "audience": true,
+     "customers_google": false
+    },
+    "promise_themes": {
+     "atendimento": 1,
+     "tempo_espera": 1,
+     "preco_custo_beneficio": 2,
+     "ambiente": 1,
+     "comida": 1,
+     "experiencia_geral": 1
+    },
+    "audience_theme_counts": {
+     "experiencia_geral": 1
+    },
+    "customer_theme_counts": null,
+    "comments_analyzed": 3,
+    "hypotheses": [
+     {
+      "theme": "experiencia_geral",
+      "promise_posts": 1,
+      "audience_mentions": 1,
+      "customer_mentions": 0,
+      "text": "Hipótese de investigação (não conclusão): o tema 'experiencia_geral' foi destacado em 1 publicação(ões) e aparece em 1 comentário(s) da audiência e 0 avaliação(ões) de clientes selecionadas. Verificar manualmente antes de qualquer interpretação."
+     }
+    ],
+    "status": "partial_two_sources",
+    "missing": [
+     "customers_google"
+    ]
+   },
+   "alert": {
+    "state": "insufficient_data",
+    "label": "Dados insuficientes",
+    "comments_analyzed": 3,
+    "flagged_comments": 0,
+    "flagged_posts": 0,
+    "evidence_examples": [],
+    "context": "Manifestações de espectadores em publicações de influenciadores (não é avaliação de cliente).",
+    "limitations": [
+     "Comentários de espectadores não são avaliações de clientes que visitaram o local.",
+     "Classificação por regras léxicas (baseline); sujeita a erros de ironia e contexto.",
+     "DEMONSTRAÇÃO com comentários fictícios."
+    ],
+    "suggestions": [
+     "Ampliar a amostra de comentários legitimamente obtidos antes de qualquer conclusão."
+    ],
+    "criteria": "mín. 10 comentários; recorrente = ≥3 manifestações e ≥10% do total"
+   },
+   "google": {
+    "status": "demo_only"
+   }
+  }
+ ],
+ "google_probe": {
+  "note": "demo"
+ },
+ "instagram_probe": {
+  "note": "demo"
+ },
+ "alert_states_legend": {
+  "no_relevant_signals": "Sem sinais relevantes identificados",
+  "attention": "Atenção à percepção de confiança",
+  "recurring_questions": "Questionamentos recorrentes",
+  "insufficient_data": "Dados insuficientes"
+ }
+}

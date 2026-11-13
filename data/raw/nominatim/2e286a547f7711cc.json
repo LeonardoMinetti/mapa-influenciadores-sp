@@ -1,0 +1,40 @@
+{
+ "fetched_at": "2026-11-13T04:52:03+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Pra%C3%A7a+Nicolau+Aranha+Pach%C3%AAco%2C+78+-+Interlagos%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 9162314,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 512708729,
+   "lat": "-23.6904112",
+   "lon": "-46.7141105",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05341195162890055,
+   "addresstype": "tertiary",
+   "name": "Praça Nicolau Aranha Pacheco",
+   "display_name": "Praça Nicolau Aranha Pacheco, Socorro, São Paulo, Região Sudeste, 04784-145, Brasil",
+   "address": {
+    "road": "Praça Nicolau Aranha Pacheco",
+    "suburb": "Socorro",
+    "city_district": "Socorro",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "04784-145",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.6904420",
+    "-23.6903724",
+    "-46.7146031",
+    "-46.7136229"
+   ]
+  }
+ ]
+}

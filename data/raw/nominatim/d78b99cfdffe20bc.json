@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:51:55+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Av.+Copacabana%2C+148+-+empresarial+18+do+forte%2C+Alphaville%2C+Barueri",
+ "results": []
+}

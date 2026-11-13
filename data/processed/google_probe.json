@@ -1,0 +1,8 @@
+{
+ "checked_at": "2026-11-13T05:00:29+00:00",
+ "api_key_configured": false,
+ "http_status": 403,
+ "error_status": "PERMISSION_DENIED",
+ "error_message": "Permission denied on the service.",
+ "conclusion": "Places API (New) exige chave + faturamento habilitado no projeto Google Cloud; sem isso, 403. Nenhum dado foi obtido nem simulado."
+}

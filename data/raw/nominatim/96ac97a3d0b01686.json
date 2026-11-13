@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:54:00+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Orlando+Magic+Burger&viewbox=-45.909654%2C-23.2669366%2C-45.887654%2C-23.2889366&bounded=1",
+ "results": []
+}

@@ -1,0 +1,103 @@
+{
+ "fetched_at": "2026-11-13T04:52:41+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Praia+de+Pitangueiras%2C+Guaruj%C3%A1",
+ "results": [
+  {
+   "place_id": 9155148,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 48452980,
+   "lat": "-23.9992753",
+   "lon": "-46.2594472",
+   "category": "natural",
+   "type": "beach",
+   "place_rank": 22,
+   "importance": 0.18929199030239088,
+   "addresstype": "beach",
+   "name": "Praia das Pitangueiras",
+   "display_name": "Praia das Pitangueiras, Pitangueiras, Guarujá, São Paulo, Região Sudeste, Brasil",
+   "address": {
+    "beach": "Praia das Pitangueiras",
+    "suburb": "Pitangueiras",
+    "city": "Guarujá",
+    "municipality": "Guarujá",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-24.0036260",
+    "-23.9949979",
+    "-46.2660151",
+    "-46.2508240"
+   ]
+  },
+  {
+   "place_id": 8432313,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 316680493,
+   "lat": "-24.0075094",
+   "lon": "-46.2685811",
+   "category": "natural",
+   "type": "beach",
+   "place_rank": 22,
+   "importance": 0.1507975276546128,
+   "addresstype": "beach",
+   "name": "Praia das Astúrias",
+   "display_name": "Praia das Astúrias, Pitangueiras, Guarujá, São Paulo, Região Sudeste, Brasil",
+   "address": {
+    "beach": "Praia das Astúrias",
+    "suburb": "Pitangueiras",
+    "city": "Guarujá",
+    "municipality": "Guarujá",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-24.0108966",
+    "-24.0039875",
+    "-46.2688698",
+    "-46.2662762"
+   ]
+  },
+  {
+   "place_id": 8435295,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 316680488,
+   "lat": "-24.0143678",
+   "lon": "-46.2732775",
+   "category": "natural",
+   "type": "beach",
+   "place_rank": 22,
+   "importance": 0.13618373728802152,
+   "addresstype": "beach",
+   "name": "Praia do Tombo",
+   "display_name": "Praia do Tombo, Pitangueiras, Guarujá, São Paulo, Região Sudeste, Brasil",
+   "address": {
+    "beach": "Praia do Tombo",
+    "suburb": "Pitangueiras",
+    "city": "Guarujá",
+    "municipality": "Guarujá",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-24.0163737",
+    "-24.0122854",
+    "-46.2761361",
+    "-46.2690282"
+   ]
+  }
+ ]
+}

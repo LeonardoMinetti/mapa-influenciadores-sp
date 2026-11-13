@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:52:05+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Farol+Cervejaria+e+Gourmet&viewbox=-46.7251105%2C-23.6794112%2C-46.703110499999994%2C-23.7014112&bounded=1",
+ "results": []
+}

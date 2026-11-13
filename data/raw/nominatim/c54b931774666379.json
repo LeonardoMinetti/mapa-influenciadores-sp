@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:53:46+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Verttoni+Ristorante&viewbox=-46.5845276%2C-23.543574200000002%2C-46.562527599999996%2C-23.5655742&bounded=1",
+ "results": []
+}

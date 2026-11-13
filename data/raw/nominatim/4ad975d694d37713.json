@@ -1,0 +1,6 @@
+{
+ "fetched_at": "2026-11-13T04:54:08+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Espetos+Madeira+Tatuap%C3%A9&viewbox=-46.571630600000006%2C-23.5535635%2C-46.5496306%2C-23.575563499999998&bounded=1",
+ "results": []
+}

@@ -1,0 +1,41 @@
+{
+ "fetched_at": "2026-11-13T04:51:41+00:00",
+ "status": 200,
+ "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=3&countrycodes=br&accept-language=pt-BR&q=Rua+Fernando+de+Albuquerque%2C+77+-+Consola%C3%A7%C3%A3o%2C+S%C3%A3o+Paulo",
+ "results": [
+  {
+   "place_id": 9003191,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4992752341,
+   "lat": "-23.5544397",
+   "lon": "-46.6573601",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 7.861829556720863e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "77, Rua Fernando de Albuquerque, Consolação, São Paulo, Região Sudeste, 01309-030, Brasil",
+   "address": {
+    "house_number": "77",
+    "road": "Rua Fernando de Albuquerque",
+    "suburb": "Consolação",
+    "city_district": "Consolação",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "ISO3166-2-lvl4": "BR-SP",
+    "region": "Região Sudeste",
+    "postcode": "01309-030",
+    "country": "Brasil",
+    "country_code": "br"
+   },
+   "boundingbox": [
+    "-23.5544897",
+    "-23.5543897",
+    "-46.6574101",
+    "-46.6573101"
+   ]
+  }
+ ]
+}
