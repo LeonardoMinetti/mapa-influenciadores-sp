@@ -25,13 +25,16 @@ export default function MapView({ data }) {
   useEffect(() => {
     if (map.current) return
     map.current = L.map(mapEl.current, { zoomControl: true }).setView([-23.56, -46.64], 11)
-    // Base cartográfica minimalista (CARTO Positron / Dark Matter): poucas linhas e rótulos, destaca só os marcadores.
+    // Base cartográfica minimalista (Esri cinza claro/escuro, sem chave de API): poucas linhas, destaca só os marcadores.
     const dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
-    L.tileLayer(`https://{s}.basemaps.cartocdn.com/${dark ? 'dark_all' : 'light_all'}/{z}/{x}/{y}{r}.png`, {
-      maxZoom: 19,
-      subdomains: 'abcd',
-      attribution:
-        '© <a href="https://www.openstreetmap.org/copyright">colaboradores do OpenStreetMap</a> © <a href="https://carto.com/attributions">CARTO</a>',
+    const esri = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas'
+    const attribution =
+      'Base: Esri, HERE, Garmin, © <a href="https://www.openstreetmap.org/copyright">colaboradores do OpenStreetMap</a>'
+    L.tileLayer(`${esri}/${dark ? 'World_Dark_Gray_Base' : 'World_Light_Gray_Base'}/MapServer/tile/{z}/{y}/{x}`, {
+      maxZoom: 19, maxNativeZoom: 16, attribution,
+    }).addTo(map.current)
+    L.tileLayer(`${esri}/${dark ? 'World_Dark_Gray_Reference' : 'World_Light_Gray_Reference'}/MapServer/tile/{z}/{y}/{x}`, {
+      maxZoom: 19, maxNativeZoom: 16,
     }).addTo(map.current)
     layer.current = L.layerGroup().addTo(map.current)
   }, [])

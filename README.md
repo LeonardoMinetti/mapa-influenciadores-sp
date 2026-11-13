@@ -54,5 +54,5 @@ Variáveis opcionais em [.env.example](.env.example).
 - Nenhum token ou dado pessoal versionado; comentários (quando importados) perdem autor, @menções, e-mails e telefones.
 - O repositório publica **campos derivados** (restaurante, endereço, link da publicação, flags), não legendas nem comentários.
 - Painel B2B com dados reais **não** é publicado (sem autenticação segura). A página pública usa **dados fictícios rotulados**.
-- Mapa: © colaboradores do OpenStreetMap (ODbL) e © CARTO (base minimalista Positron/Dark Matter). Uso gratuito da CARTO é limitado: para produto comercial, contratar provedor de tiles.
+- Mapa: © colaboradores do OpenStreetMap (ODbL) e base cinza minimalista da Esri (sem chave; uso gratuito limitado — para produto comercial, contratar provedor de tiles).
 - Datas das publicações são **derivadas do ID do vídeo** (não vêm de API).
