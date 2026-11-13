@@ -1,0 +1,946 @@
+[
+ {
+  "restaurant_id": "r_legadoparrilla_rmalbarbacena5",
+  "name": "Legado Parrilla",
+  "name_source": "pin_prefix",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "R. Mal. Barbacena, 555 - Vila Reg. Feijó, São Paulo",
+  "municipality": "São Paulo",
+  "neighborhood": "Água Rasa",
+  "lat": -23.5552388,
+  "lon": -46.5737764,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "reviewsporsp"
+  ],
+  "post_ids": [
+   "7522955929520835896"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)"
+  ]
+ },
+ {
+  "restaurant_id": "r_carolarestobar_rfernandodealb",
+  "name": "Carola Restobar",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Fernando de Albuquerque, 77 - Consolação",
+  "municipality": "São Paulo",
+  "neighborhood": "Consolação",
+  "lat": -23.5544397,
+  "lon": -46.6573601,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7405595760361737477"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_meeteat_ramosbatista44",
+  "name": "Meet Eat",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Ramos Batista 443, Vila Olimpía - SP",
+  "municipality": "São Paulo",
+  "neighborhood": "Vila Olímpia",
+  "lat": -23.5908126,
+  "lon": -46.6847393,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7345246485195345158"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_costelaparkrestaurante_r20",
+  "name": "Costela Park Restaurante",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua 20 de novembro, sem número - atibaia - sp",
+  "municipality": "Atibaia",
+  "neighborhood": "Retiro das Fontes",
+  "lat": -23.1680005,
+  "lon": -46.5458824,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": false,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7356379981481512198"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "fora do município de São Paulo",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_verttoniristorante_rgencalado20",
+  "name": "Verttoni Ristorante",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Gen. Calado, 20 - Tatuapé",
+  "municipality": "São Paulo",
+  "neighborhood": "Água Rasa",
+  "lat": -23.5545742,
+  "lon": -46.5735276,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7330358120767589637"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "bairro do texto diverge do bairro devolvido pelo OSM",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_kadosushibar_avdivinosalvad",
+  "name": "Kado Sushi Bar",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": true,
+  "address_text": "Av. Divino Salvador, 61 - Moema - SP",
+  "municipality": "São Paulo",
+  "neighborhood": "Indianópolis",
+  "lat": -23.6043548,
+  "lon": -46.660537,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7415767807477992709"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_kadosushibar_avcopacabana14",
+  "name": "Kado Sushi Bar",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": true,
+  "address_text": "Av. Copacabana, 148 - empresarial 18 do forte, Alphaville",
+  "municipality": "Barueri",
+  "neighborhood": "18 do Forte Empresarial",
+  "lat": -23.4853771,
+  "lon": -46.8554412,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": false,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7415767807477992709"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "fora do município de São Paulo",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_cromaburgers_avguilhermegio",
+  "name": "Croma Burgers",
+  "name_source": "annotator_from_handle",
+  "unit_label": "Carrão",
+  "multi_unit_brand": true,
+  "address_text": "Av. Guilherme Giorgi, 417",
+  "municipality": "São Paulo",
+  "neighborhood": "Carrão",
+  "lat": -23.5502657,
+  "lon": -46.5431593,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7120994688705842438"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_cromaburgers_avsantoantonio",
+  "name": "Croma Burgers",
+  "name_source": "annotator_from_handle",
+  "unit_label": "Osasco",
+  "multi_unit_brand": true,
+  "address_text": "Av. Santo Antônio, 1719",
+  "municipality": "Osasco",
+  "neighborhood": "Jardim Bela Vista",
+  "lat": -23.5435277,
+  "lon": -46.7757112,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": false,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7120994688705842438"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "fora do município de São Paulo",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_farolcervejariaegourmet_pcnicolauaranh",
+  "name": "Farol Cervejaria e Gourmet",
+  "name_source": "annotator_from_text",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Praça Nicolau Aranha Pachêco, 78 - Interlagos",
+  "municipality": "São Paulo",
+  "neighborhood": "Socorro",
+  "lat": -23.6904112,
+  "lon": -46.7141105,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7265432645599759621"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "bairro do texto diverge do bairro devolvido pelo OSM",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)"
+  ]
+ },
+ {
+  "restaurant_id": "r_mammaconcetta_rprofpedreirad",
+  "name": "Mamma Concetta",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Prof Pedreira de Freitas, 629 - Tatuape, São Paulo",
+  "municipality": "São Paulo",
+  "neighborhood": "Vila Gomes Cardim",
+  "lat": -23.5501607,
+  "lon": -46.5563868,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7340402068433292550",
+   "7363787722324069637"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_casachicagopizzaebar_avmiruna448",
+  "name": "Casa Chicago Pizza e Bar",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Av. Miruna 448, Indianapolis, São Paulo",
+  "municipality": "São Paulo",
+  "neighborhood": "Indianópolis",
+  "lat": -23.6136197,
+  "lon": -46.6628865,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7330754001832643845"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_oiticonveniencia_avregfeijo1188",
+  "name": "Oiti Conveniência",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Av. Reg Feijó, 1188 - Água Rasa, São Paulo",
+  "municipality": "São Paulo",
+  "neighborhood": "Água Rasa",
+  "lat": -23.558686,
+  "lon": -46.5698258,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "incrivelsp"
+  ],
+  "post_ids": [
+   "7276454992330984709"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_dinnerintheskybrasil_parquecandidop",
+  "name": "Dinner in the Sky Brasil",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Parque Cândido Portinari",
+  "municipality": "São Paulo",
+  "neighborhood": "Boaçava",
+  "lat": -23.5443754,
+  "lon": -46.7304334,
+  "coordinate_quality": "area",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7489476882895883575"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "local é uma área (parque/praia), não um ponto de estabelecimento",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_misssaigon_rbentofreitas1",
+  "name": "Miss Saigon",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Bento Freitas, 152 - República, São Paulo",
+  "municipality": "São Paulo",
+  "neighborhood": "Vila Buarque",
+  "lat": -23.5432253,
+  "lon": -46.6455612,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": true,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7375598332393065734"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_rizzrestaurante_alirae398",
+  "name": "Rizz Restaurante",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Alameda Iraé, 398 - Moema",
+  "municipality": "São Paulo",
+  "neighborhood": "Indianópolis",
+  "lat": -23.6028428,
+  "lon": -46.659923,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7390156071844711685"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_tulumbar_rgomesdecarval",
+  "name": "Tulum Bar",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "R. Gomes de Carvalho, 1666 - Vila Olimpia",
+  "municipality": "São Paulo",
+  "neighborhood": "Vila Olímpia",
+  "lat": -23.5951453,
+  "lon": -46.6882249,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7248373401256086790"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_saltburgernbar_raugustotolle1",
+  "name": "Salt Burger n Bar",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Augusto Tolle, 175 - Santana",
+  "municipality": "São Paulo",
+  "neighborhood": "Alto de Santana",
+  "lat": -23.4916621,
+  "lon": -46.6319287,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7242828330431532294"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_kajikisushi_rdasflechas310",
+  "name": "Kajiki Sushi",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua das Flechas, 310 - Jd Prudência",
+  "municipality": "São Paulo",
+  "neighborhood": "Jardim Prudência",
+  "lat": -23.651471,
+  "lon": -46.6706701,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7272882689294798086"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_hannoverfondue_rcardosodealme",
+  "name": "Hannover Fondue",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Cardoso de Almeida, 1301 - Perdizes",
+  "municipality": "São Paulo",
+  "neighborhood": "Perdizes",
+  "lat": -23.5415399,
+  "lon": -46.6711458,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7284766358737407237"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_kandapasteis_estrdorioacima",
+  "name": "Kanda Pastéis",
+  "name_source": "annotator_from_text",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Estrada do Rio Acima 101 - Mairiporã, São Paulo",
+  "municipality": "Mairiporã",
+  "neighborhood": "Capoavinha",
+  "lat": -23.308306,
+  "lon": -46.5685748,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": false,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7667344791709027605"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "fora do município de São Paulo"
+  ]
+ },
+ {
+  "restaurant_id": "r_sealounge_praiadepitangu",
+  "name": "Sea Lounge",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Praia de Pitangueiras",
+  "municipality": "Guarujá",
+  "neighborhood": "Pitangueiras",
+  "lat": -23.9992753,
+  "lon": -46.2594472,
+  "coordinate_quality": "area",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": false,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7209027793710025990"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "local é uma área (parque/praia), não um ponto de estabelecimento",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "fora do município de São Paulo",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_tiadabatatajdimperador_rcampoflorido6",
+  "name": "Tia da Batata (Jd. Imperador)",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "R. Campo Florido, 624 - Jardim Imperador",
+  "municipality": "São Paulo",
+  "neighborhood": "Jardim Imperador",
+  "lat": -23.5906352,
+  "lon": -46.5001414,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7513939512012082488"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_orlandomagicburger_avdoimperador4",
+  "name": "Orlando Magic Burger",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Avenida do Imperador, 4424 - São Miguel Paulista",
+  "municipality": "São José dos Campos",
+  "neighborhood": null,
+  "lat": null,
+  "lon": null,
+  "coordinate_quality": "none",
+  "geocode_source": null,
+  "existence_verified": false,
+  "in_sao_paulo_city": false,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7302581497486249221"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "geocodificação rejeitada: logradouro encontrado em outro município (São José dos Campos)",
+   "fora do município de São Paulo",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_burgguerstatuape_razevedosoares",
+  "name": "Burgguers Tatuapé",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Azevedo Soares, 1172- Tatuapé",
+  "municipality": "São Paulo",
+  "neighborhood": "Vila Gomes Cardim",
+  "lat": -23.5486987,
+  "lon": -46.5654173,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7470648168913325317"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_akarisushi_avengenheiroca",
+  "name": "Akari Sushi",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Av. Engenheiro Caetano Álvares, 4051 - Mandaqui",
+  "municipality": "São Paulo",
+  "neighborhood": "Vila Aurora",
+  "lat": -23.484124,
+  "lon": -46.6371398,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7405351678226091269"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_chicogrill_aldospamaris30",
+  "name": "Chico Grill",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Alameda dos Pamaris, 302 - Moema",
+  "municipality": "São Paulo",
+  "neighborhood": "Indianópolis",
+  "lat": -23.6131868,
+  "lon": -46.6696844,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7503917821462646022"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_joeuzumaki_rnamaxi140",
+  "name": "Joe Uzumaki",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Namaxi, 140 - VI São Geraldo, São Paulo",
+  "municipality": "São Paulo",
+  "neighborhood": "Vila Laís",
+  "lat": -23.5153445,
+  "lon": -46.5387793,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7374153437103066374"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "bairro do texto diverge do bairro devolvido pelo OSM",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_yosukesushivilamatilde_rdonamatilde88",
+  "name": "Yosuke Sushi Vila Matilde",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Dona Matilde, 882 - Vila Matilde",
+  "municipality": "São Paulo",
+  "neighborhood": "Vila Dalila",
+  "lat": -23.5399491,
+  "lon": -46.5249208,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7210078004729367813"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_fazendamacaxeira_avportugal1313",
+  "name": "Fazenda Macaxeira",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Av. Portugal, 1313, Santo André",
+  "municipality": "Santo André",
+  "neighborhood": "Centro",
+  "lat": -23.656676,
+  "lon": -46.5302578,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": false,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7305582353613688070"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "fora do município de São Paulo",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_fushimisushitatuape_rsantavirginia",
+  "name": "Fushimi Sushi Tatuapé",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Santa Virginia, 250 - Tatuapé",
+  "municipality": "São Paulo",
+  "neighborhood": "Parque São Jorge",
+  "lat": -23.5328656,
+  "lon": -46.5699721,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": true,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7433910132628557061"
+  ],
+  "review_status": "auto_ok",
+  "review_reasons": [
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_sushisaolucas_avdooratorio35",
+  "name": "Sushi São Lucas",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Avenida do Oratório, 3553 - Parque São Lucas - São Paulo",
+  "municipality": "São Paulo",
+  "neighborhood": "São Lucas",
+  "lat": -23.6125232,
+  "lon": -46.5237023,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7119132005530356997"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_espetosmadeiratatuape_avvereadorabel",
+  "name": "Espetos Madeira Tatuapé",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Av. Vereador Abel Ferreira, 2001 - Tatuapé",
+  "municipality": "São Paulo",
+  "neighborhood": "Água Rasa",
+  "lat": -23.5645635,
+  "lon": -46.5606306,
+  "coordinate_quality": "address_exact",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": true,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7385675897732418822"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "bairro do texto diverge do bairro devolvido pelo OSM",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "nome derivado do @ do estabelecimento"
+  ]
+ },
+ {
+  "restaurant_id": "r_solargastrobar_rtabajara69",
+  "name": "Solar Gastrobar",
+  "name_source": "annotator_from_handle",
+  "unit_label": null,
+  "multi_unit_brand": false,
+  "address_text": "Rua Tabajara, 69 - Guarulhos",
+  "municipality": "Guarulhos",
+  "neighborhood": "Macedo",
+  "lat": -23.4632819,
+  "lon": -46.5210765,
+  "coordinate_quality": "street_approx",
+  "geocode_source": "OpenStreetMap Nominatim (ODbL) — © colaboradores do OpenStreetMap",
+  "existence_verified": false,
+  "in_sao_paulo_city": false,
+  "influencers": [
+   "vivamaissp"
+  ],
+  "post_ids": [
+   "7380134514317692166"
+  ],
+  "review_status": "pending_review",
+  "review_reasons": [
+   "coordenada aproximada (centro da rua, sem número exato)",
+   "existência do estabelecimento não confirmada em fonte (sem POI no OSM)",
+   "fora do município de São Paulo",
+   "nome derivado do @ do estabelecimento"
+  ]
+ }
+]
