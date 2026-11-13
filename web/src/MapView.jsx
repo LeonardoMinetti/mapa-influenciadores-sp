@@ -25,9 +25,13 @@ export default function MapView({ data }) {
   useEffect(() => {
     if (map.current) return
     map.current = L.map(mapEl.current, { zoomControl: true }).setView([-23.56, -46.64], 11)
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    // Base cartográfica minimalista (CARTO Positron / Dark Matter): poucas linhas e rótulos, destaca só os marcadores.
+    const dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+    L.tileLayer(`https://{s}.basemaps.cartocdn.com/${dark ? 'dark_all' : 'light_all'}/{z}/{x}/{y}{r}.png`, {
       maxZoom: 19,
-      attribution: '© <a href="https://www.openstreetmap.org/copyright">colaboradores do OpenStreetMap</a>',
+      subdomains: 'abcd',
+      attribution:
+        '© <a href="https://www.openstreetmap.org/copyright">colaboradores do OpenStreetMap</a> © <a href="https://carto.com/attributions">CARTO</a>',
     }).addTo(map.current)
     layer.current = L.layerGroup().addTo(map.current)
   }, [])
@@ -39,9 +43,10 @@ export default function MapView({ data }) {
       const color = INFL_COLOR[r.influencers[0]] || '#555'
       const exact = r.coordinate_quality === 'address_exact'
       const m = L.circleMarker([r.lat, r.lon], {
-        radius: exact ? 9 : 8,
+        radius: exact ? 10 : 9,
         color,
         weight: 3,
+        opacity: 0.95,
         fillColor: color,
         fillOpacity: exact ? 0.85 : 0.1,
         dashArray: exact ? null : '3 3',

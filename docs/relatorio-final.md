@@ -97,4 +97,4 @@ Premissas (derivadas desta PoC): 20 posts/influenciador → 1.000 posts; 0,8 res
 3. **Comentários/Instagram**: decidir o caminho — (a) adesão dos criadores via OAuth (Instagram Graph / TikTok Login Kit), (b) CSV exportado pelos próprios criadores, (c) fornecedor de dados com contrato claro. Há importador pronto.
 4. Para o B2B: restaurantes conectando o **próprio** Google Business Profile e Instagram profissional é o caminho de dados **permitido e mais rico** — vale validar com 2–3 restaurantes piloto.
 5. (Concluído) GitHub Actions ativado após autorização do escopo `workflow`; o site é publicado pelo workflow `pages.yml`.
-6. Trocar tiles do OSM por provedor contratado antes de qualquer tráfego real.
+6. Trocar os tiles gratuitos (CARTO/OSM) por provedor contratado antes de qualquer tráfego real.
