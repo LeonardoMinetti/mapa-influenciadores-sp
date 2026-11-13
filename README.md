@@ -33,7 +33,7 @@ data/       seeds/ (URLs), public/ (JSON derivado, publicado), processed/ (geoco
 tests/      35 testes (unittest) incl. integridade dos dados públicos
 docs/       investigação de acesso, módulo Google, critérios do alerta, relatório final
 review/     auditoria interna + local para suas correções exportadas
-.github/ (vazio)  ci/  workflows de Pages e pipeline manual — prontos, aguardando escopo `workflow` (ver ci/LEIAME.md)
+.github/    workflows: publicar Pages (push) e pipeline manual (testes)
 ```
 
 ## Rodar

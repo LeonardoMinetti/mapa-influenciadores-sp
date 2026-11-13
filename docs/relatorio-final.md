@@ -48,8 +48,6 @@ Não calculáveis hoje: taxa de erro real (precisa de revisão humana), cobertur
 - Perfil `@reviewsporsp`: só 9 publicações achadas (muitas sem nome de restaurante no texto — o conteúdo está no vídeo, **não processado**).
 - Instagram: perfis de `@reviewsporsp` e `@vivamaissp` nem foram localizados na busca.
 
-**Parcial:** workflows do GitHub Actions escritos mas **não ativados** (push recusado: token sem escopo `workflow`).
-
 **Bloqueado (decisão deliberada, por termos/credenciais)**
 - Scraping de Instagram/TikTok (robots.txt proíbe) — **não executado**.
 - Comentários (nenhum caminho permitido sem autorização).
@@ -98,5 +96,5 @@ Premissas (derivadas desta PoC): 20 posts/influenciador → 1.000 posts; 0,8 res
 2. **Google**: criar projeto/chave com teto de orçamento e **autorizar** os 5 chamados (`docs/google-module.md`).
 3. **Comentários/Instagram**: decidir o caminho — (a) adesão dos criadores via OAuth (Instagram Graph / TikTok Login Kit), (b) CSV exportado pelos próprios criadores, (c) fornecedor de dados com contrato claro. Há importador pronto.
 4. Para o B2B: restaurantes conectando o **próprio** Google Business Profile e Instagram profissional é o caminho de dados **permitido e mais rico** — vale validar com 2–3 restaurantes piloto.
-5. **Ativar o GitHub Actions**: o token do `gh` não tem o escopo `workflow`, então os workflows ficaram em `ci/` (ver `ci/LEIAME.md`); o site está publicado pela branch `gh-pages`. Rode `gh auth refresh -h github.com -s workflow` e siga o passo a passo.
+5. (Concluído) GitHub Actions ativado após autorização do escopo `workflow`; o site é publicado pelo workflow `pages.yml`.
 6. Trocar tiles do OSM por provedor contratado antes de qualquer tráfego real.
