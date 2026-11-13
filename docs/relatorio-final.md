@@ -40,12 +40,15 @@ Não calculáveis hoje: taxa de erro real (precisa de revisão humana), cobertur
 - Confirmação de identidade dos 3 perfis no TikTok (oEmbed de criador).
 - Descoberta de 42 URLs reais de vídeos + legendas (parciais) pela busca; extração de restaurante/endereço/publicidade por regras.
 - Consolidação (duplicatas, unidades distintas da mesma rede), geocodificação OSM com **rejeição de homônimos** e checagem de coerência de bairro.
+- Repositório e site no ar: https://github.com/LeonardoMinetti/mapa-influenciadores-sp · https://leonardominetti.github.io/mapa-influenciadores-sp/ (200 OK, mapa renderiza 33 marcadores).
 - Mapa, revisão manual com exportação, painel B2B (real local / demo fictício), alerta com 4 estados, 35 testes.
 
 **Falhou**
 - oEmbed de vídeo do TikTok **não valida** existência, autoria nem legenda (retorna 200 para ID inexistente e para @ errado).
 - Perfil `@reviewsporsp`: só 9 publicações achadas (muitas sem nome de restaurante no texto — o conteúdo está no vídeo, **não processado**).
 - Instagram: perfis de `@reviewsporsp` e `@vivamaissp` nem foram localizados na busca.
+
+**Parcial:** workflows do GitHub Actions escritos mas **não ativados** (push recusado: token sem escopo `workflow`).
 
 **Bloqueado (decisão deliberada, por termos/credenciais)**
 - Scraping de Instagram/TikTok (robots.txt proíbe) — **não executado**.
@@ -95,4 +98,5 @@ Premissas (derivadas desta PoC): 20 posts/influenciador → 1.000 posts; 0,8 res
 2. **Google**: criar projeto/chave com teto de orçamento e **autorizar** os 5 chamados (`docs/google-module.md`).
 3. **Comentários/Instagram**: decidir o caminho — (a) adesão dos criadores via OAuth (Instagram Graph / TikTok Login Kit), (b) CSV exportado pelos próprios criadores, (c) fornecedor de dados com contrato claro. Há importador pronto.
 4. Para o B2B: restaurantes conectando o **próprio** Google Business Profile e Instagram profissional é o caminho de dados **permitido e mais rico** — vale validar com 2–3 restaurantes piloto.
-5. Trocar tiles do OSM por provedor contratado antes de qualquer tráfego real.
+5. **Ativar o GitHub Actions**: o token do `gh` não tem o escopo `workflow`, então os workflows ficaram em `ci/` (ver `ci/LEIAME.md`); o site está publicado pela branch `gh-pages`. Rode `gh auth refresh -h github.com -s workflow` e siga o passo a passo.
+6. Trocar tiles do OSM por provedor contratado antes de qualquer tráfego real.
