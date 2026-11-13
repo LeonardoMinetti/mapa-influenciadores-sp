@@ -24,6 +24,9 @@ Escopo fixo: `@reviewsporsp`, `@incrivelsp`, `@vivamaissp`.
 Leia o relatório antes de tirar conclusões: a PoC prova a **cadeia técnica** (publicação → restaurante → coordenada → mapa → revisão) e prova
 que **os dados de comentários e avaliações não são obteníveis de forma permitida com a infraestrutura atual**.
 
+## Design
+Interface clara e jovem, inspirada nos padrões de UI do viversp.com (coluna de cartões + mapa, tipografia condensada, rótulos em caixa-alta). Fontes servidas localmente (Archivo e Sofia Sans Condensed, OFL). Fotos: ver [docs/photos.md](docs/photos.md) — hoje cada ficha mostra o vídeo oficial da indicação; fotos só entram com licença/autorização.
+
 ## Estrutura
 
 ```

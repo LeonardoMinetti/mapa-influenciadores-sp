@@ -13,6 +13,10 @@ fs.mkdirSync(out, { recursive: true })
 for (const f of ['influencers', 'posts', 'restaurants', 'meta']) {
   fs.copyFileSync(path.join(root, 'data/public', `${f}.json`), path.join(out, `${f}.json`))
 }
+// fotos (manifesto + arquivos com crédito/licença)
+fs.copyFileSync(path.join(root, 'data/public/photos.json'), path.join(out, 'photos.json'))
+const photosDir = path.join(root, 'data/public/photos')
+if (fs.existsSync(photosDir)) fs.cpSync(photosDir, path.resolve(root, 'web/public/photos'), { recursive: true })
 const priv = process.env.PRIVATE_DATA === '1'
 const src = priv ? 'data/private/b2b.json' : 'data/demo/b2b_demo.json'
 fs.copyFileSync(path.join(root, src), path.join(out, 'b2b.json'))

@@ -11,6 +11,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/archivo": "^5.1.0",
+    "@fontsource/sofia-sans-condensed": "^5.1.0",
     "leaflet": "1.9.4",
     "react": "18.3.1",
     "react-dom": "18.3.1"
