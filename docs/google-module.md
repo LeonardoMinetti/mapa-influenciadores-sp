@@ -23,7 +23,7 @@ No painel local cada um traz um link do Google Maps **só para verificação hum
 4. **Scraping/armazenamento:** os termos do Google Maps Platform proíbem extração automatizada e restringem cache/armazenamento de conteúdo (apenas `place_id` pode ser guardado indefinidamente) e exigem atribuição. Não implementado.
 5. **Exige o proprietário:** histórico completo de avaliações, respostas e métricas → **Business Profile API** com OAuth do dono.
 
-> Valores de preço e quotas mudam; confirmar em cloud.google.com/maps-platform/pricing antes de autorizar qualquer gasto.
+> Preço de tabela verificado em 13/11/2026 (tabela oficial, páginas de terceiros concordam): Text Search com campos de avaliação cai na faixa **Enterprise + Atmosphere ≈ US$ 40 por 1.000 chamadas**, com **1.000 chamadas gratuitas por mês por SKU** — os 5 testes caberiam na cota gratuita, mas **o faturamento precisa estar habilitado no projeto**. Confirme sempre na página oficial antes de autorizar gasto.
 
 ## Próximos passos (precisam de você)
 1. Criar projeto no Google Cloud, habilitar Places API (New) e definir **teto de orçamento/alerta**.
